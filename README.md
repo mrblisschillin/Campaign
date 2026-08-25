@@ -38,6 +38,8 @@ Source pages must be opened and read. Search snippets are not evidence. Canonica
 - `withdrawn` — a sourced withdrawal.
 - `needs_review` — conflicting, weak or incomplete evidence. These records are visually and editorially separated from announced candidates.
 
+The absence of a candidate-owned website or qualifying local coverage is not, by itself, a review condition. A current listing from Livable CRD, VoteMate or Island Social Trends supports `publicly_announced` when stronger evidence is unavailable. Do not demote an existing listing or use `needs_review` solely because its evidence is discovery-only; reserve review status for affirmative conflicts involving identity, office, jurisdiction, withdrawal or candidacy, and cite the conflicting evidence.
+
 The City of Victoria controls nomination and final-ballot status; Elections BC is secondary confirmation. Do not assume an incumbent is running, infer a platform position from silence or describe a person who is only considering a run as a candidate.
 
 ## Daily update process

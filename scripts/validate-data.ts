@@ -152,6 +152,11 @@ for (const [index, candidate] of candidates.entries()) {
   check(typeof candidate.manualNotes === 'string', `${at}.manualNotes`, 'must always exist and be a string');
   check(candidate.status === 'needs_review' ? candidate.needsReview === true : candidate.needsReview === false, `${at}.needsReview`, 'must agree with status');
   check(candidate.needsReview ? typeof candidate.needsReviewExplanation === 'string' && candidate.needsReviewExplanation.length > 20 : candidate.needsReviewExplanation === null, `${at}.needsReviewExplanation`, 'must explain review status, otherwise be null');
+  check(
+    candidate.statusSource.sourceType !== 'discovery_source' || candidate.status !== 'needs_review',
+    `${at}.status`,
+    'a discovery-only listing remains publicly_announced; source scarcity alone is not a review condition',
+  );
 }
 
 for (const [index, item] of news.entries()) {
