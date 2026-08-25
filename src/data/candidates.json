@@ -1,0 +1,1140 @@
+[
+  {
+    "id": "marianne-alto",
+    "name": "Marianne Alto",
+    "aliases": [],
+    "office": "mayor",
+    "status": "publicly_announced",
+    "statusDate": "2026-05-20",
+    "statusSource": {
+      "url": "https://victoriabuzz.com/2026/05/victoria-mayor-marianne-alto-launches-re-election-campaign/",
+      "label": "Victoria Buzz report on re-election launch",
+      "sourceType": "independent_reporting"
+    },
+    "incumbent": true,
+    "incumbencySourceUrl": "https://www.victoria.ca/city-government/mayor-council/mayor-marianne-alto",
+    "affiliation": null,
+    "biography": "Alto has served as Victoria's mayor since 2022, after serving as a city councillor from 2010 to 2022. Her City biography describes a background in facilitation, university training in law and science, and work on housing, community wellbeing and relations with the Songhees and Xwsepsum Nations.",
+    "campaignWebsite": "https://mariannealto.ca/",
+    "campaignLinks": [
+      { "label": "Campaign website", "url": "https://mariannealto.ca/", "type": "website" }
+    ],
+    "photo": {
+      "url": "https://www.victoria.ca/sites/default/files/styles/16_9/public/2023-08/Mayor%2520Alto%2520with%2520hardhat.jpg?itok=Dq7tSQ9I",
+      "sourceUrl": "https://www.victoria.ca/city-government/mayor-council/mayor-marianne-alto",
+      "credit": "City of Victoria",
+      "alt": "Mayor Marianne Alto wearing a hard hat outdoors"
+    },
+    "platform": [
+      {
+        "id": "alto-housing-2026",
+        "topic": "housing",
+        "summary": "Her re-election launch identifies unlocking more homes as a core priority.",
+        "sourceUrl": "https://victoriabuzz.com/2026/05/victoria-mayor-marianne-alto-launches-re-election-campaign/",
+        "sourceType": "independent_reporting",
+        "verifiedDate": "2026-08-24"
+      },
+      {
+        "id": "alto-safety-wellbeing-2026",
+        "topic": "public_safety",
+        "summary": "She links community safety with coordinated wellbeing services and has called for a regional approach to policing.",
+        "sourceUrl": "https://victoriabuzz.com/2026/05/victoria-mayor-marianne-alto-launches-re-election-campaign/",
+        "sourceType": "independent_reporting",
+        "verifiedDate": "2026-08-24"
+      },
+      {
+        "id": "alto-parks-arts-2026",
+        "topic": "arts_and_culture",
+        "summary": "Her launch also identifies sustained arts and culture funding and protection of parks as priorities.",
+        "sourceUrl": "https://victoriabuzz.com/2026/05/victoria-mayor-marianne-alto-launches-re-election-campaign/",
+        "sourceType": "independent_reporting",
+        "verifiedDate": "2026-08-24"
+      }
+    ],
+    "recentNewsIds": ["2026-05-20-alto-re-election-launch"],
+    "lastVerified": "2026-08-24T15:30:00-07:00",
+    "needsReview": false,
+    "needsReviewExplanation": null,
+    "manualNotes": ""
+  },
+  {
+    "id": "lyall-atkinson",
+    "name": "Lyall Atkinson",
+    "aliases": [],
+    "office": "mayor",
+    "status": "publicly_announced",
+    "statusDate": "2026-08-24",
+    "statusSource": {
+      "url": "https://livablecrd.ca/scorecard/victoria/lyall-atkinson/",
+      "label": "Livable CRD discovery profile",
+      "sourceType": "discovery_source"
+    },
+    "incumbent": false,
+    "incumbencySourceUrl": "https://www.victoria.ca/city-government/mayor-council/members-council",
+    "affiliation": null,
+    "biography": "Atkinson is publicly listed for the 2026 Victoria mayoral race by Livable CRD. He was also a candidate for mayor in Victoria's 2022 election and appears in the City's official results for that election.",
+    "campaignWebsite": null,
+    "campaignLinks": [],
+    "photo": { "url": null, "sourceUrl": null, "credit": null, "alt": "Initials avatar for Lyall Atkinson" },
+    "platform": [],
+    "recentNewsIds": [],
+    "lastVerified": "2026-08-24T15:30:00-07:00",
+    "needsReview": false,
+    "needsReviewExplanation": null,
+    "manualNotes": ""
+  },
+  {
+    "id": "bruce-mcguigan",
+    "name": "Bruce McGuigan",
+    "aliases": [],
+    "office": "mayor",
+    "status": "publicly_announced",
+    "statusDate": "2026-08-24",
+    "statusSource": {
+      "url": "https://livablecrd.ca/scorecard/victoria/bruce-mcguigan/",
+      "label": "Livable CRD discovery profile",
+      "sourceType": "discovery_source"
+    },
+    "incumbent": false,
+    "incumbencySourceUrl": "https://www.victoria.ca/city-government/mayor-council/members-council",
+    "affiliation": null,
+    "biography": "McGuigan is publicly listed for the 2026 Victoria mayoral race by Livable CRD. He previously ran for mayor in 2018 and was described at that time as a sociology professor and former executive director of Family Services of Greater Victoria.",
+    "campaignWebsite": null,
+    "campaignLinks": [],
+    "photo": { "url": null, "sourceUrl": null, "credit": null, "alt": "Initials avatar for Bruce McGuigan" },
+    "platform": [],
+    "recentNewsIds": [],
+    "lastVerified": "2026-08-24T15:30:00-07:00",
+    "needsReview": false,
+    "needsReviewExplanation": null,
+    "manualNotes": ""
+  },
+  {
+    "id": "matthew-schryer",
+    "name": "Matthew Schryer",
+    "aliases": [],
+    "office": "mayor",
+    "status": "publicly_announced",
+    "statusDate": "2026-08-24",
+    "statusSource": {
+      "url": "https://livablecrd.ca/scorecard/victoria/matthew-schryer/",
+      "label": "Livable CRD discovery profile",
+      "sourceType": "discovery_source"
+    },
+    "incumbent": false,
+    "incumbencySourceUrl": "https://www.victoria.ca/city-government/mayor-council/members-council",
+    "affiliation": null,
+    "biography": "Schryer is publicly listed for the 2026 Victoria mayoral race by Livable CRD. No candidate-owned biography or campaign website was located in the initial research snapshot.",
+    "campaignWebsite": null,
+    "campaignLinks": [],
+    "photo": { "url": null, "sourceUrl": null, "credit": null, "alt": "Initials avatar for Matthew Schryer" },
+    "platform": [],
+    "recentNewsIds": [],
+    "lastVerified": "2026-08-24T15:30:00-07:00",
+    "needsReview": false,
+    "needsReviewExplanation": null,
+    "manualNotes": ""
+  },
+  {
+    "id": "wendy-bowkett",
+    "name": "Wendy Bowkett",
+    "aliases": [],
+    "office": "councillor",
+    "status": "publicly_announced",
+    "statusDate": "2026-05-15",
+    "statusSource": {
+      "url": "https://www.wendybowkett.ca/",
+      "label": "Candidate campaign website",
+      "sourceType": "candidate_website"
+    },
+    "incumbent": false,
+    "incumbencySourceUrl": "https://www.victoria.ca/city-government/mayor-council/members-council",
+    "affiliation": null,
+    "biography": "Bowkett is a business strategist with an MBA and a former leader of the Victoria Downtown Residents Association. Her campaign biography also notes board service with the 9-10 Club Soup Kitchen.",
+    "campaignWebsite": "https://www.wendybowkett.ca/",
+    "campaignLinks": [
+      { "label": "Campaign website", "url": "https://www.wendybowkett.ca/", "type": "website" }
+    ],
+    "photo": {
+      "url": "https://assets.nationbuilder.com/wendy4yyj/pages/9/features/original/920-51_%282%29.jpg?1778613205",
+      "sourceUrl": "https://www.wendybowkett.ca/",
+      "credit": "Wendy Bowkett campaign",
+      "alt": "Campaign portrait of Wendy Bowkett"
+    },
+    "platform": [
+      {
+        "id": "bowkett-governance-2026",
+        "topic": "governance_and_amalgamation",
+        "summary": "She proposes clearer public reporting and more meaningful engagement around council decisions.",
+        "sourceUrl": "https://www.wendybowkett.ca/",
+        "sourceType": "candidate_website",
+        "verifiedDate": "2026-08-24"
+      },
+      {
+        "id": "bowkett-safety-2026",
+        "topic": "public_safety",
+        "summary": "She calls for a properly resourced safety system that includes non-police crisis response.",
+        "sourceUrl": "https://www.wendybowkett.ca/",
+        "sourceType": "candidate_website",
+        "verifiedDate": "2026-08-24"
+      },
+      {
+        "id": "bowkett-housing-2026",
+        "topic": "housing",
+        "summary": "She supports faster approvals for non-market and co-op housing, paired with updated local area plans.",
+        "sourceUrl": "https://www.wendybowkett.ca/",
+        "sourceType": "candidate_website",
+        "verifiedDate": "2026-08-24"
+      }
+    ],
+    "recentNewsIds": ["2026-05-15-bowkett-campaign"],
+    "lastVerified": "2026-08-24T15:30:00-07:00",
+    "needsReview": false,
+    "needsReviewExplanation": null,
+    "manualNotes": ""
+  },
+  {
+    "id": "jeremy-caradonna",
+    "name": "Jeremy Caradonna",
+    "aliases": [],
+    "office": "councillor",
+    "status": "publicly_announced",
+    "statusDate": "2025-12-19",
+    "statusSource": {
+      "url": "https://victoriabuzz.com/2025/12/jeremy-caradonna-announces-plans-to-seek-re-election-as-victoria-city-councillor/",
+      "label": "Victoria Buzz report on re-election announcement",
+      "sourceType": "independent_reporting"
+    },
+    "incumbent": true,
+    "incumbencySourceUrl": "https://www.victoria.ca/city-government/mayor-and-council/councillor-jeremy-caradonna",
+    "affiliation": null,
+    "biography": "Caradonna has served on Victoria City Council since 2022. His City biography describes him as a historian, professor and small-business owner who has worked on provincial climate and green-building policy.",
+    "campaignWebsite": "https://www.electjeremy.ca/",
+    "campaignLinks": [
+      { "label": "Campaign website", "url": "https://www.electjeremy.ca/", "type": "website" },
+      { "label": "LinkedIn", "url": "https://www.linkedin.com/in/jeremy-caradonna-b90945162/", "type": "linkedin" }
+    ],
+    "photo": {
+      "url": "https://www.victoria.ca/sites/default/files/styles/284x284/public/2023-08/_DSC4583%2520Jeremy%2520Caradonna%2520High%2520Res%2520Colour.jpg?h=6367b82e&itok=CGNzzStc",
+      "sourceUrl": "https://www.victoria.ca/city-government/mayor-and-council/councillor-jeremy-caradonna",
+      "credit": "City of Victoria",
+      "alt": "Official portrait of Councillor Jeremy Caradonna"
+    },
+    "platform": [
+      {
+        "id": "caradonna-safety-2026",
+        "topic": "public_safety",
+        "summary": "His re-election announcement identifies community safety as a developing campaign priority.",
+        "sourceUrl": "https://victoriabuzz.com/2025/12/jeremy-caradonna-announces-plans-to-seek-re-election-as-victoria-city-councillor/",
+        "sourceType": "independent_reporting",
+        "verifiedDate": "2026-08-24"
+      },
+      {
+        "id": "caradonna-housing-2026",
+        "topic": "housing",
+        "summary": "He identifies affordable housing and sustainable urban development as parts of his developing platform.",
+        "sourceUrl": "https://victoriabuzz.com/2025/12/jeremy-caradonna-announces-plans-to-seek-re-election-as-victoria-city-councillor/",
+        "sourceType": "independent_reporting",
+        "verifiedDate": "2026-08-24"
+      }
+    ],
+    "recentNewsIds": ["2025-12-19-caradonna-re-election"],
+    "lastVerified": "2026-08-24T15:30:00-07:00",
+    "needsReview": false,
+    "needsReviewExplanation": null,
+    "manualNotes": ""
+  },
+  {
+    "id": "melissa-cseszko",
+    "name": "Melissa Cseszko",
+    "aliases": [],
+    "office": "councillor",
+    "status": "publicly_announced",
+    "statusDate": "2026-05-12",
+    "statusSource": {
+      "url": "https://www.melissacseszko.ca/",
+      "label": "Candidate campaign website",
+      "sourceType": "candidate_website"
+    },
+    "incumbent": false,
+    "incumbencySourceUrl": "https://www.victoria.ca/city-government/mayor-council/members-council",
+    "affiliation": null,
+    "biography": "Cseszko describes herself as born and raised in Victoria and as a downtown small-business owner for five years. Her campaign frames that experience as the basis for a focus on downtown conditions and municipal accountability.",
+    "campaignWebsite": "https://www.melissacseszko.ca/",
+    "campaignLinks": [
+      { "label": "Campaign website", "url": "https://www.melissacseszko.ca/", "type": "website" }
+    ],
+    "photo": {
+      "url": "https://assets.nationbuilder.com/melissacseszko/pages/9/features/original/MC09-comp.jpg?1778458826",
+      "sourceUrl": "https://www.melissacseszko.ca/",
+      "credit": "Melissa Cseszko campaign",
+      "alt": "Campaign portrait of Melissa Cseszko"
+    },
+    "platform": [
+      {
+        "id": "cseszko-downtown-2026",
+        "topic": "downtown_and_local_economy",
+        "summary": "She emphasizes predictable, orderly downtown conditions and support for local businesses.",
+        "sourceUrl": "https://www.melissacseszko.ca/",
+        "sourceType": "candidate_website",
+        "verifiedDate": "2026-08-24"
+      },
+      {
+        "id": "cseszko-governance-2026",
+        "topic": "governance_and_amalgamation",
+        "summary": "She calls for stronger oversight, performance measurement and accountability at City Hall.",
+        "sourceUrl": "https://www.melissacseszko.ca/",
+        "sourceType": "candidate_website",
+        "verifiedDate": "2026-08-24"
+      },
+      {
+        "id": "cseszko-heritage-2026",
+        "topic": "climate_and_public_realm",
+        "summary": "Her campaign says heritage buildings and the character of established streets should be protected as the city changes.",
+        "sourceUrl": "https://www.melissacseszko.ca/",
+        "sourceType": "candidate_website",
+        "verifiedDate": "2026-08-24"
+      }
+    ],
+    "recentNewsIds": ["2026-05-12-cseszko-campaign"],
+    "lastVerified": "2026-08-24T15:30:00-07:00",
+    "needsReview": false,
+    "needsReviewExplanation": null,
+    "manualNotes": ""
+  },
+  {
+    "id": "matt-dell",
+    "name": "Matt Dell",
+    "aliases": [],
+    "office": "councillor",
+    "status": "publicly_announced",
+    "statusDate": "2025-12-31",
+    "statusSource": {
+      "url": "https://www.mattdell.ca/",
+      "label": "Candidate campaign website",
+      "sourceType": "candidate_website"
+    },
+    "incumbent": true,
+    "incumbencySourceUrl": "https://www.victoria.ca/city-government/mayor-and-council/councillor-matt-dell",
+    "affiliation": null,
+    "biography": "Dell has served on Victoria City Council since 2022. His campaign biography describes a career in provincial policy, community volunteering, neighbourhood-association leadership and music, as well as a master's degree in political science.",
+    "campaignWebsite": "https://www.mattdell.ca/",
+    "campaignLinks": [
+      { "label": "Campaign website", "url": "https://www.mattdell.ca/", "type": "website" }
+    ],
+    "photo": {
+      "url": "https://www.victoria.ca/sites/default/files/styles/284x284/public/2023-08/_DSC4650%2520Matt%2520Dell%2520High%2520Res%2520Colour.jpg",
+      "sourceUrl": "https://www.victoria.ca/city-government/mayor-and-council/councillor-matt-dell",
+      "credit": "City of Victoria",
+      "alt": "Official portrait of Councillor Matt Dell"
+    },
+    "platform": [
+      {
+        "id": "dell-housing-2026",
+        "topic": "housing",
+        "summary": "He lists building more homes as a central campaign priority.",
+        "sourceUrl": "https://www.mattdell.ca/",
+        "sourceType": "candidate_website",
+        "verifiedDate": "2026-08-24"
+      },
+      {
+        "id": "dell-public-realm-2026",
+        "topic": "climate_and_public_realm",
+        "summary": "He supports climate-ready parks and trees, repaired streets and sidewalks, and more walkable connected neighbourhoods.",
+        "sourceUrl": "https://www.mattdell.ca/",
+        "sourceType": "candidate_website",
+        "verifiedDate": "2026-08-24"
+      },
+      {
+        "id": "dell-arts-library-2026",
+        "topic": "arts_and_culture",
+        "summary": "He advocates for a new downtown public library, community events and continued investment in arts and culture.",
+        "sourceUrl": "https://www.mattdell.ca/",
+        "sourceType": "candidate_website",
+        "verifiedDate": "2026-08-24"
+      }
+    ],
+    "recentNewsIds": ["2025-12-31-dell-campaign"],
+    "lastVerified": "2026-08-24T15:30:00-07:00",
+    "needsReview": false,
+    "needsReviewExplanation": null,
+    "manualNotes": ""
+  },
+  {
+    "id": "shona-dion",
+    "name": "Shona Dion",
+    "aliases": [],
+    "office": "councillor",
+    "status": "publicly_announced",
+    "statusDate": "2026-08-24",
+    "statusSource": {
+      "url": "https://www.shonadion4victoria.ca/",
+      "label": "Candidate campaign website",
+      "sourceType": "candidate_website"
+    },
+    "incumbent": false,
+    "incumbencySourceUrl": "https://www.victoria.ca/city-government/mayor-council/members-council",
+    "affiliation": null,
+    "biography": "Dion describes herself as a labour activist, community builder and photographer, and as a 28-year union member. Her campaign biography lists roles with the Victoria Labour Council and the North Jubilee Neighbourhood Association.",
+    "campaignWebsite": "https://www.shonadion4victoria.ca/",
+    "campaignLinks": [
+      { "label": "Campaign website", "url": "https://www.shonadion4victoria.ca/", "type": "website" }
+    ],
+    "photo": { "url": null, "sourceUrl": "https://www.shonadion4victoria.ca/", "credit": null, "alt": "Initials avatar for Shona Dion" },
+    "platform": [
+      {
+        "id": "dion-housing-2026",
+        "topic": "housing",
+        "summary": "She supports social and co-operative housing and stronger health and safety protections for tenants.",
+        "sourceUrl": "https://www.shonadion4victoria.ca/priorities",
+        "sourceType": "candidate_website",
+        "verifiedDate": "2026-08-24"
+      },
+      {
+        "id": "dion-climate-2026",
+        "topic": "climate_and_public_realm",
+        "summary": "She proposes heat-mitigation measures, more tree canopy and community gardens, and opposition to energy-intensive AI data centres.",
+        "sourceUrl": "https://www.shonadion4victoria.ca/priorities",
+        "sourceType": "candidate_website",
+        "verifiedDate": "2026-08-24"
+      },
+      {
+        "id": "dion-transportation-2026",
+        "topic": "transportation",
+        "summary": "She states support for bicycle infrastructure as part of a safer transportation network.",
+        "sourceUrl": "https://www.shonadion4victoria.ca/priorities",
+        "sourceType": "candidate_website",
+        "verifiedDate": "2026-08-24"
+      }
+    ],
+    "recentNewsIds": ["2026-08-24-dion-campaign"],
+    "lastVerified": "2026-08-24T15:30:00-07:00",
+    "needsReview": false,
+    "needsReviewExplanation": null,
+    "manualNotes": ""
+  },
+  {
+    "id": "jerry-garcia",
+    "name": "Jerry Garcia",
+    "aliases": [],
+    "office": "councillor",
+    "status": "publicly_announced",
+    "statusDate": "2026-07-19",
+    "statusSource": {
+      "url": "https://jerryforvictoria.ca/",
+      "label": "Candidate campaign announcement",
+      "sourceType": "candidate_website"
+    },
+    "incumbent": false,
+    "incumbencySourceUrl": "https://www.victoria.ca/city-government/mayor-council/members-council",
+    "affiliation": null,
+    "biography": "Garcia describes himself as a retired professional engineer, executive, entrepreneur and community volunteer with more than 40 years of experience on complex projects. His campaign says he has lived in downtown Victoria for eight years.",
+    "campaignWebsite": "https://jerryforvictoria.ca/",
+    "campaignLinks": [
+      { "label": "Campaign website", "url": "https://jerryforvictoria.ca/", "type": "website" }
+    ],
+    "photo": {
+      "url": "https://jerryforvictoria.ca/app/uploads/2026/07/J-Garcia-Printable-9-BONE-Web.webp",
+      "sourceUrl": "https://jerryforvictoria.ca/",
+      "credit": "Jerry Garcia campaign",
+      "alt": "Campaign portrait of Jerry Garcia"
+    },
+    "platform": [
+      {
+        "id": "garcia-economy-2026",
+        "topic": "downtown_and_local_economy",
+        "summary": "He says the City should strengthen economic growth and improve conditions for downtown residents and businesses.",
+        "sourceUrl": "https://jerryforvictoria.ca/",
+        "sourceType": "candidate_website",
+        "verifiedDate": "2026-08-24"
+      },
+      {
+        "id": "garcia-safety-2026",
+        "topic": "public_safety",
+        "summary": "His platform identifies restoring public safety as a priority.",
+        "sourceUrl": "https://jerryforvictoria.ca/",
+        "sourceType": "candidate_website",
+        "verifiedDate": "2026-08-24"
+      },
+      {
+        "id": "garcia-budget-2026",
+        "topic": "taxes_and_budget",
+        "summary": "He calls for fiscal responsibility and performance-focused municipal management.",
+        "sourceUrl": "https://jerryforvictoria.ca/",
+        "sourceType": "candidate_website",
+        "verifiedDate": "2026-08-24"
+      }
+    ],
+    "recentNewsIds": ["2026-07-19-garcia-campaign"],
+    "lastVerified": "2026-08-24T15:30:00-07:00",
+    "needsReview": false,
+    "needsReviewExplanation": null,
+    "manualNotes": ""
+  },
+  {
+    "id": "marg-gardiner",
+    "name": "Marg Gardiner",
+    "aliases": [],
+    "office": "councillor",
+    "status": "publicly_announced",
+    "statusDate": "2026-08-24",
+    "statusSource": {
+      "url": "https://marggardiner.ca/",
+      "label": "Candidate re-election website",
+      "sourceType": "candidate_website"
+    },
+    "incumbent": true,
+    "incumbencySourceUrl": "https://www.victoria.ca/city-government/mayor-and-council/councillor-marg-gardiner",
+    "affiliation": null,
+    "biography": "Gardiner has served on Victoria City Council since 2022 and previously spent 16 years with the James Bay Neighbourhood Association. Her campaign biography lists degrees in chemistry and public administration and a professional background in regulation and data management.",
+    "campaignWebsite": "https://marggardiner.ca/",
+    "campaignLinks": [
+      { "label": "Campaign website", "url": "https://marggardiner.ca/", "type": "website" }
+    ],
+    "photo": {
+      "url": "https://marggardiner.ca/wp-content/themes/marg-gardiner-theme/assets/images/marg-headshot.jpg",
+      "sourceUrl": "https://marggardiner.ca/",
+      "credit": "Marg Gardiner campaign",
+      "alt": "Campaign portrait of Marg Gardiner"
+    },
+    "platform": [
+      {
+        "id": "gardiner-safety-2026",
+        "topic": "public_safety",
+        "summary": "She calls for adequate police resources, safer streets and a treatment-oriented response to addiction.",
+        "sourceUrl": "https://marggardiner.ca/",
+        "sourceType": "candidate_website",
+        "verifiedDate": "2026-08-24"
+      },
+      {
+        "id": "gardiner-budget-2026",
+        "topic": "taxes_and_budget",
+        "summary": "She proposes zero-based budgeting and measurable results for municipal spending.",
+        "sourceUrl": "https://marggardiner.ca/",
+        "sourceType": "candidate_website",
+        "verifiedDate": "2026-08-24"
+      },
+      {
+        "id": "gardiner-housing-2026",
+        "topic": "housing",
+        "summary": "She opposes the City's Missing Middle policy and current Official Community Plan density approach, favouring neighbourhood-scale planning.",
+        "sourceUrl": "https://marggardiner.ca/",
+        "sourceType": "candidate_website",
+        "verifiedDate": "2026-08-24"
+      }
+    ],
+    "recentNewsIds": ["2026-08-24-gardiner-campaign"],
+    "lastVerified": "2026-08-24T15:30:00-07:00",
+    "needsReview": false,
+    "needsReviewExplanation": null,
+    "manualNotes": ""
+  },
+  {
+    "id": "peter-rose-gibbs",
+    "name": "Peter Rose Gibbs",
+    "aliases": ["Peter Rose-Gibbs"],
+    "office": "councillor",
+    "status": "publicly_announced",
+    "statusDate": "2026-08-15",
+    "statusSource": {
+      "url": "https://victoriabuzz.com/2026/08/new-political-slate-victoria-for-all-launches-3-candidates-in-upcoming-local-election/",
+      "label": "Victoria Buzz report on Victoria For All launch",
+      "sourceType": "independent_reporting"
+    },
+    "incumbent": false,
+    "incumbencySourceUrl": "https://www.victoria.ca/city-government/mayor-council/members-council",
+    "affiliation": {
+      "name": "Victoria For All",
+      "type": "slate",
+      "sourceUrl": "https://www.victoriaforall.ca/about"
+    },
+    "biography": "Rose Gibbs is a lifelong Victoria resident and parent whose campaign biography describes two decades of public advocacy. He is one of two City council candidates presented by Victoria For All at its August launch.",
+    "campaignWebsite": "https://www.victoriaforall.ca/about",
+    "campaignLinks": [
+      { "label": "Victoria For All profile", "url": "https://www.victoriaforall.ca/about", "type": "website" },
+      { "label": "Bluesky", "url": "https://bsky.app/profile/peterrosegibbs.bsky.social", "type": "bluesky" }
+    ],
+    "photo": {
+      "url": "https://images.solidarity.tech/fit-in/800x0/filters%3Ano_upscale%28%29/chvwavyb3nl5wjzpm5ezsknjuo8g",
+      "sourceUrl": "https://www.victoriaforall.ca/about",
+      "credit": "Victoria For All",
+      "alt": "Campaign portrait of Peter Rose Gibbs"
+    },
+    "platform": [
+      {
+        "id": "gibbs-housing-2026",
+        "topic": "housing",
+        "summary": "Victoria For All proposes doubling City investment in affordable housing; Rose Gibbs appears as a candidate on the organization's shared platform.",
+        "sourceUrl": "https://www.victoriaforall.ca/about",
+        "sourceType": "candidate_website",
+        "verifiedDate": "2026-08-24"
+      },
+      {
+        "id": "gibbs-health-2026",
+        "topic": "homelessness_and_health",
+        "summary": "The organization's shared platform calls for expanded mental-health and addiction crisis response.",
+        "sourceUrl": "https://www.victoriaforall.ca/about",
+        "sourceType": "candidate_website",
+        "verifiedDate": "2026-08-24"
+      },
+      {
+        "id": "gibbs-public-spaces-2026",
+        "topic": "parks",
+        "summary": "The shared platform proposes free, year-round and accessible community gathering spaces.",
+        "sourceUrl": "https://www.victoriaforall.ca/about",
+        "sourceType": "candidate_website",
+        "verifiedDate": "2026-08-24"
+      }
+    ],
+    "recentNewsIds": ["2026-08-17-victoria-for-all-launch"],
+    "lastVerified": "2026-08-24T15:30:00-07:00",
+    "needsReview": false,
+    "needsReviewExplanation": null,
+    "manualNotes": ""
+  },
+  {
+    "id": "martin-girard",
+    "name": "Martin Girard",
+    "aliases": [],
+    "office": "councillor",
+    "status": "publicly_announced",
+    "statusDate": "2026-08-24",
+    "statusSource": {
+      "url": "https://martingirardforvictoriacouncil.ca/",
+      "label": "Candidate campaign website",
+      "sourceType": "candidate_website"
+    },
+    "incumbent": false,
+    "incumbencySourceUrl": "https://www.victoria.ca/city-government/mayor-council/members-council",
+    "affiliation": null,
+    "biography": "Girard is a Victoria resident and public advocate who has addressed City Council on civic issues. His campaign website presents a detailed platform centred on drug policy, human rights and Indigenous relations.",
+    "campaignWebsite": "https://martingirardforvictoriacouncil.ca/",
+    "campaignLinks": [
+      { "label": "Campaign website", "url": "https://martingirardforvictoriacouncil.ca/", "type": "website" }
+    ],
+    "photo": {
+      "url": "https://martingirardforvictoriacouncil.ca/wp-content/uploads/sites/2/2026/03/portrait-384x480-1.png",
+      "sourceUrl": "https://martingirardforvictoriacouncil.ca/",
+      "credit": "Martin Girard campaign",
+      "alt": "Campaign portrait of Martin Girard"
+    },
+    "platform": [
+      {
+        "id": "girard-drug-policy-2026",
+        "topic": "homelessness_and_health",
+        "summary": "He advocates municipal decriminalization of simple drug possession and licensed compassion clubs within a public-health approach.",
+        "sourceUrl": "https://martingirardforvictoriacouncil.ca/",
+        "sourceType": "candidate_website",
+        "verifiedDate": "2026-08-24"
+      },
+      {
+        "id": "girard-indigenous-relations-2026",
+        "topic": "indigenous_relations",
+        "summary": "He proposes that the City advocate for Indigenous rights and support legal arguments grounded in the UN Declaration on the Rights of Indigenous Peoples.",
+        "sourceUrl": "https://martingirardforvictoriacouncil.ca/",
+        "sourceType": "candidate_website",
+        "verifiedDate": "2026-08-24"
+      },
+      {
+        "id": "girard-human-rights-2026",
+        "topic": "other",
+        "summary": "His platform calls for the City to take public positions on selected international human-rights issues.",
+        "sourceUrl": "https://martingirardforvictoriacouncil.ca/",
+        "sourceType": "candidate_website",
+        "verifiedDate": "2026-08-24"
+      }
+    ],
+    "recentNewsIds": ["2026-08-24-girard-campaign"],
+    "lastVerified": "2026-08-24T15:30:00-07:00",
+    "needsReview": false,
+    "needsReviewExplanation": null,
+    "manualNotes": ""
+  },
+  {
+    "id": "stephen-hammond",
+    "name": "Stephen Hammond",
+    "aliases": [],
+    "office": "councillor",
+    "status": "publicly_announced",
+    "statusDate": "2026-07-06",
+    "statusSource": {
+      "url": "https://www.votestephenhammond.ca/",
+      "label": "Candidate re-election website",
+      "sourceType": "candidate_website"
+    },
+    "incumbent": true,
+    "incumbencySourceUrl": "https://www.victoria.ca/city-government/mayor-and-council/councillor-stephen-hammond",
+    "affiliation": null,
+    "biography": "Hammond has served on Victoria City Council since 2022. His City biography describes him as a lawyer, professional speaker and author with experience on community boards.",
+    "campaignWebsite": "https://www.votestephenhammond.ca/",
+    "campaignLinks": [
+      { "label": "Campaign website", "url": "https://www.votestephenhammond.ca/", "type": "website" }
+    ],
+    "photo": {
+      "url": "https://www.victoria.ca/sites/default/files/styles/284x284/public/2023-08/_DSC4591%2520Stephen%2520Hammond%2520High%2520Res%2520Colour.jpg",
+      "sourceUrl": "https://www.victoria.ca/city-government/mayor-and-council/councillor-stephen-hammond",
+      "credit": "City of Victoria",
+      "alt": "Official portrait of Councillor Stephen Hammond"
+    },
+    "platform": [
+      {
+        "id": "hammond-safety-2026",
+        "topic": "public_safety",
+        "summary": "He makes a safer city a headline re-election priority.",
+        "sourceUrl": "https://www.votestephenhammond.ca/",
+        "sourceType": "candidate_website",
+        "verifiedDate": "2026-08-24"
+      },
+      {
+        "id": "hammond-budget-2026",
+        "topic": "taxes_and_budget",
+        "summary": "He argues that property-tax increases should remain affordable for residents.",
+        "sourceUrl": "https://www.votestephenhammond.ca/",
+        "sourceType": "candidate_website",
+        "verifiedDate": "2026-08-24"
+      },
+      {
+        "id": "hammond-housing-2026",
+        "topic": "housing",
+        "summary": "He describes his housing approach as practical and includes protection for renters among his priorities.",
+        "sourceUrl": "https://www.votestephenhammond.ca/",
+        "sourceType": "candidate_website",
+        "verifiedDate": "2026-08-24"
+      }
+    ],
+    "recentNewsIds": ["2026-07-06-hammond-campaign"],
+    "lastVerified": "2026-08-24T15:30:00-07:00",
+    "needsReview": false,
+    "needsReviewExplanation": null,
+    "manualNotes": ""
+  },
+  {
+    "id": "susan-kim",
+    "name": "Susan Kim",
+    "aliases": [],
+    "office": "councillor",
+    "status": "publicly_announced",
+    "statusDate": "2026-08-15",
+    "statusSource": {
+      "url": "https://victoriabuzz.com/2026/08/new-political-slate-victoria-for-all-launches-3-candidates-in-upcoming-local-election/",
+      "label": "Victoria Buzz report on Victoria For All launch",
+      "sourceType": "independent_reporting"
+    },
+    "incumbent": true,
+    "incumbencySourceUrl": "https://www.victoria.ca/city-government/mayor-and-council/councillor-susan-kim",
+    "affiliation": {
+      "name": "Victoria For All",
+      "type": "slate",
+      "sourceUrl": "https://www.victoriaforall.ca/about"
+    },
+    "biography": "Kim has served on Victoria City Council since 2022. Her City biography describes a decade of work in food security, community organizing, adult education, policy and operations, including roles in government and Island Health.",
+    "campaignWebsite": "https://www.victoriaforall.ca/about",
+    "campaignLinks": [
+      { "label": "Victoria For All profile", "url": "https://www.victoriaforall.ca/about", "type": "website" }
+    ],
+    "photo": {
+      "url": "https://images.solidarity.tech/fit-in/800x0/filters%3Ano_upscale%28%29/so7zkkkwmu7iadfgo6offbbjowip",
+      "sourceUrl": "https://www.victoriaforall.ca/about",
+      "credit": "Victoria For All",
+      "alt": "Campaign portrait of Susan Kim"
+    },
+    "platform": [
+      {
+        "id": "kim-housing-2026",
+        "topic": "housing",
+        "summary": "Victoria For All proposes doubling City investment in affordable housing; Kim appears as a candidate on the organization's shared platform.",
+        "sourceUrl": "https://www.victoriaforall.ca/about",
+        "sourceType": "candidate_website",
+        "verifiedDate": "2026-08-24"
+      },
+      {
+        "id": "kim-health-2026",
+        "topic": "homelessness_and_health",
+        "summary": "The shared platform calls for expanded mental-health and addiction crisis response.",
+        "sourceUrl": "https://www.victoriaforall.ca/about",
+        "sourceType": "candidate_website",
+        "verifiedDate": "2026-08-24"
+      },
+      {
+        "id": "kim-climate-2026",
+        "topic": "climate_and_public_realm",
+        "summary": "The organization says its candidates support retaining and expanding Victoria's urban tree canopy.",
+        "sourceUrl": "https://www.victoriaforall.ca/about",
+        "sourceType": "candidate_website",
+        "verifiedDate": "2026-08-24"
+      }
+    ],
+    "recentNewsIds": ["2026-08-17-victoria-for-all-launch"],
+    "lastVerified": "2026-08-24T15:30:00-07:00",
+    "needsReview": false,
+    "needsReviewExplanation": null,
+    "manualNotes": ""
+  },
+  {
+    "id": "krista-loughton",
+    "name": "Krista Loughton",
+    "aliases": ["Krista Laughton"],
+    "office": "councillor",
+    "status": "publicly_announced",
+    "statusDate": "2026-08-24",
+    "statusSource": {
+      "url": "https://www.kristaloughton.ca/",
+      "label": "Candidate re-election website",
+      "sourceType": "candidate_website"
+    },
+    "incumbent": true,
+    "incumbencySourceUrl": "https://www.victoria.ca/city-government/mayor-and-council/councillor-krista-loughton",
+    "affiliation": null,
+    "biography": "Loughton has served on Victoria City Council since 2022. Her campaign and City biographies emphasize work on homelessness, mental health and addiction, alongside documentary filmmaking and community advocacy.",
+    "campaignWebsite": "https://www.kristaloughton.ca/",
+    "campaignLinks": [
+      { "label": "Campaign website", "url": "https://www.kristaloughton.ca/", "type": "website" },
+      { "label": "LinkedIn", "url": "https://www.linkedin.com/in/krista-loughton-96351116/", "type": "linkedin" }
+    ],
+    "photo": {
+      "url": "https://assets.nationbuilder.com/kristaloughton/pages/34/features/original/k-loughton-portrait-shape-cropped.webp?1780498071",
+      "sourceUrl": "https://www.kristaloughton.ca/",
+      "credit": "Krista Loughton campaign",
+      "alt": "Campaign portrait of Krista Loughton"
+    },
+    "platform": [
+      {
+        "id": "loughton-health-2026",
+        "topic": "homelessness_and_health",
+        "summary": "She promotes a rent-supplement and light-support model intended to help people move from supportive housing into market rentals, freeing supportive units for others.",
+        "sourceUrl": "https://www.kristaloughton.ca/",
+        "sourceType": "candidate_website",
+        "verifiedDate": "2026-08-24"
+      },
+      {
+        "id": "loughton-neighbourhoods-2026",
+        "topic": "climate_and_public_realm",
+        "summary": "Her campaign describes a goal of walkable, accessible and vibrant neighbourhoods under a 'City of Communities' theme.",
+        "sourceUrl": "https://www.kristaloughton.ca/",
+        "sourceType": "candidate_website",
+        "verifiedDate": "2026-08-24"
+      }
+    ],
+    "recentNewsIds": ["2026-08-24-loughton-campaign"],
+    "lastVerified": "2026-08-24T15:30:00-07:00",
+    "needsReview": false,
+    "needsReviewExplanation": null,
+    "manualNotes": ""
+  },
+  {
+    "id": "bella-lee",
+    "name": "Bella Lee",
+    "aliases": [],
+    "office": "councillor",
+    "status": "publicly_announced",
+    "statusDate": "2026-06-30",
+    "statusSource": {
+      "url": "https://victoriabuzz.com/2026/06/duo-of-young-candidates-running-for-victoria-city-council-with-focus-on-housing/",
+      "label": "Victoria Buzz report on campaign launch",
+      "sourceType": "independent_reporting"
+    },
+    "incumbent": false,
+    "incumbencySourceUrl": "https://www.victoria.ca/city-government/mayor-council/members-council",
+    "affiliation": null,
+    "biography": "Lee describes herself as a lifelong Victoria resident and renter with experience in community and political organizing. Her campaign says she advocated for the Crystal Pool referendum and is focused on affordability and public spaces.",
+    "campaignWebsite": "https://www.bellalee.ca/",
+    "campaignLinks": [
+      { "label": "Campaign website", "url": "https://www.bellalee.ca/", "type": "website" }
+    ],
+    "photo": {
+      "url": "https://images.squarespace-cdn.com/content/v1/698b889d8c03172efae5b908/94c85d62-a7a8-4507-a92d-f30f587c5c07/Bella%27s+Community+Unedited-19.jpg",
+      "sourceUrl": "https://www.bellalee.ca/",
+      "credit": "Bella Lee campaign",
+      "alt": "Campaign portrait of Bella Lee"
+    },
+    "platform": [
+      {
+        "id": "lee-affordability-2026",
+        "topic": "housing",
+        "summary": "She makes lowering the cost of living and improving housing affordability central campaign themes.",
+        "sourceUrl": "https://www.bellalee.ca/",
+        "sourceType": "candidate_website",
+        "verifiedDate": "2026-08-24"
+      },
+      {
+        "id": "lee-homelessness-2026",
+        "topic": "homelessness_and_health",
+        "summary": "She calls for costs associated with homelessness to be shared regionally rather than concentrated in Victoria.",
+        "sourceUrl": "https://www.bellalee.ca/",
+        "sourceType": "candidate_website",
+        "verifiedDate": "2026-08-24"
+      },
+      {
+        "id": "lee-public-spaces-2026",
+        "topic": "parks",
+        "summary": "She supports investment in accessible public and recreation spaces, including the Crystal Pool replacement.",
+        "sourceUrl": "https://www.bellalee.ca/",
+        "sourceType": "candidate_website",
+        "verifiedDate": "2026-08-24"
+      }
+    ],
+    "recentNewsIds": ["2026-06-30-lee-sandor-launch"],
+    "lastVerified": "2026-08-24T15:30:00-07:00",
+    "needsReview": false,
+    "needsReviewExplanation": null,
+    "manualNotes": ""
+  },
+  {
+    "id": "arthur-mcinnis",
+    "name": "Arthur McInnis",
+    "aliases": [],
+    "office": "councillor",
+    "status": "publicly_announced",
+    "statusDate": "2026-06-25",
+    "statusSource": {
+      "url": "https://www.arthurmcinnis.ca/",
+      "label": "Candidate campaign website",
+      "sourceType": "candidate_website"
+    },
+    "incumbent": false,
+    "incumbencySourceUrl": "https://www.victoria.ca/city-government/mayor-council/members-council",
+    "affiliation": null,
+    "biography": "McInnis is a law professor and former international construction lawyer and tribunal member. His campaign biography says he brings more than 30 years of legal and governance experience to the race.",
+    "campaignWebsite": "https://www.arthurmcinnis.ca/",
+    "campaignLinks": [
+      { "label": "Campaign website", "url": "https://www.arthurmcinnis.ca/", "type": "website" }
+    ],
+    "photo": {
+      "url": "https://assets.nationbuilder.com/arthurmcinnis/pages/9/features/original/IMG_6341-crop2.jpeg?1781480650",
+      "sourceUrl": "https://www.arthurmcinnis.ca/",
+      "credit": "Arthur McInnis campaign",
+      "alt": "Campaign portrait of Arthur McInnis"
+    },
+    "platform": [
+      {
+        "id": "mcinnis-governance-2026",
+        "topic": "governance_and_amalgamation",
+        "summary": "He proposes an integrity commissioner, a lobbyist registry, a civic-land inventory and public-facing performance dashboards.",
+        "sourceUrl": "https://www.arthurmcinnis.ca/",
+        "sourceType": "candidate_website",
+        "verifiedDate": "2026-08-24"
+      },
+      {
+        "id": "mcinnis-budget-2026",
+        "topic": "taxes_and_budget",
+        "summary": "He calls for zero-based budgeting and a 90-day public consultation before tax increases above inflation.",
+        "sourceUrl": "https://www.arthurmcinnis.ca/",
+        "sourceType": "candidate_website",
+        "verifiedDate": "2026-08-24"
+      },
+      {
+        "id": "mcinnis-housing-2026",
+        "topic": "housing",
+        "summary": "He supports pre-approved housing patterns, rental replacement and right-to-return rules, and long-term leases of public land.",
+        "sourceUrl": "https://www.arthurmcinnis.ca/",
+        "sourceType": "candidate_website",
+        "verifiedDate": "2026-08-24"
+      }
+    ],
+    "recentNewsIds": ["2026-06-25-mcinnis-campaign"],
+    "lastVerified": "2026-08-24T15:30:00-07:00",
+    "needsReview": false,
+    "needsReviewExplanation": null,
+    "manualNotes": ""
+  },
+  {
+    "id": "karen-rothe",
+    "name": "Karen Rothe",
+    "aliases": [],
+    "office": "councillor",
+    "status": "publicly_announced",
+    "statusDate": "2026-05-27",
+    "statusSource": {
+      "url": "https://www.karenrothe.ca/",
+      "label": "Candidate campaign website",
+      "sourceType": "candidate_website"
+    },
+    "incumbent": false,
+    "incumbencySourceUrl": "https://www.victoria.ca/city-government/mayor-council/members-council",
+    "affiliation": null,
+    "biography": "Rothe is a Vic West resident and career British Columbia public servant. Her campaign biography describes work on Metro Vancouver's regional growth strategy, wildfire evacuation policy and search-and-rescue funding.",
+    "campaignWebsite": "https://www.karenrothe.ca/",
+    "campaignLinks": [
+      { "label": "Campaign website", "url": "https://www.karenrothe.ca/", "type": "website" }
+    ],
+    "photo": {
+      "url": "https://assets.nationbuilder.com/karenrothe/pages/9/features/original/IMG_20260519_205157_%283%29.jpg?1779847763",
+      "sourceUrl": "https://www.karenrothe.ca/",
+      "credit": "Karen Rothe campaign",
+      "alt": "Campaign portrait of Karen Rothe"
+    },
+    "platform": [
+      {
+        "id": "rothe-governance-2026",
+        "topic": "governance_and_amalgamation",
+        "summary": "She emphasizes transparent decisions, listening and clear council responsibility for outcomes.",
+        "sourceUrl": "https://www.karenrothe.ca/",
+        "sourceType": "candidate_website",
+        "verifiedDate": "2026-08-24"
+      },
+      {
+        "id": "rothe-downtown-2026",
+        "topic": "downtown_and_local_economy",
+        "summary": "She proposes a coordinated downtown revival effort that includes neighbourhood associations and local businesses.",
+        "sourceUrl": "https://www.karenrothe.ca/",
+        "sourceType": "candidate_website",
+        "verifiedDate": "2026-08-24"
+      },
+      {
+        "id": "rothe-core-services-2026",
+        "topic": "taxes_and_budget",
+        "summary": "She says the City should prioritize core responsibilities, including infrastructure, transportation, safety and affordability, using data-informed planning.",
+        "sourceUrl": "https://www.karenrothe.ca/",
+        "sourceType": "candidate_website",
+        "verifiedDate": "2026-08-24"
+      }
+    ],
+    "recentNewsIds": ["2026-05-27-rothe-campaign"],
+    "lastVerified": "2026-08-24T15:30:00-07:00",
+    "needsReview": false,
+    "needsReviewExplanation": null,
+    "manualNotes": ""
+  },
+  {
+    "id": "jack-sandor",
+    "name": "Jack Sandor",
+    "aliases": [],
+    "office": "councillor",
+    "status": "publicly_announced",
+    "statusDate": "2026-06-30",
+    "statusSource": {
+      "url": "https://victoriabuzz.com/2026/06/duo-of-young-candidates-running-for-victoria-city-council-with-focus-on-housing/",
+      "label": "Victoria Buzz report on campaign launch",
+      "sourceType": "independent_reporting"
+    },
+    "incumbent": false,
+    "incumbencySourceUrl": "https://www.victoria.ca/city-government/mayor-council/members-council",
+    "affiliation": null,
+    "biography": "Sandor is a Red Seal electrician who grew up in Victoria's Gonzales neighbourhood. His campaign biography describes construction work on market and subsidized housing, health facilities and other major projects, as well as housing and transportation advocacy.",
+    "campaignWebsite": "https://www.jacksandor.ca/",
+    "campaignLinks": [
+      { "label": "Campaign website", "url": "https://www.jacksandor.ca/", "type": "website" }
+    ],
+    "photo": {
+      "url": "https://images.squarespace-cdn.com/content/v1/68c608590d4fb45c9fd00301/b51fd898-7e7c-42f7-b89d-9392ac19eb05/Handshake+photo.jpg",
+      "sourceUrl": "https://www.jacksandor.ca/",
+      "credit": "Jack Sandor campaign",
+      "alt": "Campaign photograph of Jack Sandor"
+    },
+    "platform": [
+      {
+        "id": "sandor-housing-2026",
+        "topic": "housing",
+        "summary": "He places housing supply and affordability at the centre of his council campaign.",
+        "sourceUrl": "https://www.jacksandor.ca/",
+        "sourceType": "candidate_website",
+        "verifiedDate": "2026-08-24"
+      },
+      {
+        "id": "sandor-services-2026",
+        "topic": "other",
+        "summary": "He argues for reliable public services and infrastructure informed by practical construction experience.",
+        "sourceUrl": "https://www.jacksandor.ca/",
+        "sourceType": "candidate_website",
+        "verifiedDate": "2026-08-24"
+      },
+      {
+        "id": "sandor-economy-2026",
+        "topic": "downtown_and_local_economy",
+        "summary": "His campaign identifies stronger support for local businesses as a priority.",
+        "sourceUrl": "https://www.jacksandor.ca/",
+        "sourceType": "candidate_website",
+        "verifiedDate": "2026-08-24"
+      }
+    ],
+    "recentNewsIds": ["2026-06-30-lee-sandor-launch"],
+    "lastVerified": "2026-08-24T15:30:00-07:00",
+    "needsReview": false,
+    "needsReviewExplanation": null,
+    "manualNotes": ""
+  },
+  {
+    "id": "dave-thompson",
+    "name": "Dave Thompson",
+    "aliases": [],
+    "office": "councillor",
+    "status": "publicly_announced",
+    "statusDate": "2026-08-23",
+    "statusSource": {
+      "url": "https://davethompsonvictoria.ca/",
+      "label": "Candidate re-election website",
+      "sourceType": "candidate_website"
+    },
+    "incumbent": true,
+    "incumbencySourceUrl": "https://www.victoria.ca/city-government/mayor-and-council/councillor-dave-thompson",
+    "affiliation": null,
+    "biography": "Thompson has served on Victoria City Council since 2022. His campaign biography describes a background in public service, environmental work and community volunteering.",
+    "campaignWebsite": "https://davethompsonvictoria.ca/",
+    "campaignLinks": [
+      { "label": "Campaign website", "url": "https://davethompsonvictoria.ca/", "type": "website" }
+    ],
+    "photo": {
+      "url": "https://davethompsonvictoria.ca/wp-content/uploads/2022/08/IMG_20220728_064710__01-scaled-e1660933957820.jpg",
+      "sourceUrl": "https://davethompsonvictoria.ca/",
+      "credit": "Dave Thompson campaign",
+      "alt": "Campaign portrait of Dave Thompson"
+    },
+    "platform": [
+      {
+        "id": "thompson-housing-2026",
+        "topic": "housing",
+        "summary": "He identifies building more homes as one of the priorities guiding his developing platform.",
+        "sourceUrl": "https://davethompsonvictoria.ca/",
+        "sourceType": "candidate_website",
+        "verifiedDate": "2026-08-24"
+      },
+      {
+        "id": "thompson-safety-health-2026",
+        "topic": "homelessness_and_health",
+        "summary": "He links safer streets with improving support for vulnerable neighbours.",
+        "sourceUrl": "https://davethompsonvictoria.ca/",
+        "sourceType": "candidate_website",
+        "verifiedDate": "2026-08-24"
+      },
+      {
+        "id": "thompson-climate-2026",
+        "topic": "climate_and_public_realm",
+        "summary": "Climate action is listed among the priorities for his developing re-election platform.",
+        "sourceUrl": "https://davethompsonvictoria.ca/",
+        "sourceType": "candidate_website",
+        "verifiedDate": "2026-08-24"
+      }
+    ],
+    "recentNewsIds": ["2026-08-23-thompson-campaign"],
+    "lastVerified": "2026-08-24T15:30:00-07:00",
+    "needsReview": false,
+    "needsReviewExplanation": null,
+    "manualNotes": ""
+  },
+  {
+    "id": "owen-haley",
+    "name": "Owen Haley",
+    "aliases": [],
+    "office": "councillor",
+    "status": "publicly_announced",
+    "statusDate": "2026-08-24",
+    "statusSource": {
+      "url": "https://livablecrd.ca/scorecard/victoria/owen-haley/",
+      "label": "Livable CRD discovery profile",
+      "sourceType": "discovery_source"
+    },
+    "incumbent": false,
+    "incumbencySourceUrl": "https://www.victoria.ca/city-government/mayor-council/members-council",
+    "affiliation": null,
+    "biography": "Haley is publicly listed for the 2026 Victoria council race by Livable CRD. No candidate-owned biography or campaign website was located in the initial research snapshot.",
+    "campaignWebsite": null,
+    "campaignLinks": [],
+    "photo": { "url": null, "sourceUrl": null, "credit": null, "alt": "Initials avatar for Owen Haley" },
+    "platform": [],
+    "recentNewsIds": [],
+    "lastVerified": "2026-08-24T15:30:00-07:00",
+    "needsReview": false,
+    "needsReviewExplanation": null,
+    "manualNotes": ""
+  }
+]

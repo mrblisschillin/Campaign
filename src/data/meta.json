@@ -1,0 +1,30 @@
+{
+  "title": "Victoria 2026 Candidate Monitor",
+  "jurisdiction": "City of Victoria, British Columbia",
+  "offices": {
+    "mayor": 1,
+    "councillor": 8
+  },
+  "electionDate": "2026-10-17",
+  "timezone": "America/Vancouver",
+  "lastVerified": "2026-08-24T15:30:00-07:00",
+  "nominationsOpen": "2026-09-01",
+  "nominationsClose": "2026-09-11",
+  "scopeNote": "City of Victoria mayor and councillor candidates only. School trustee, CRD director, other municipal, provincial and federal races are excluded.",
+  "officialElectionUrl": "https://www.victoria.ca/city-government/elections",
+  "electionsBcUrl": "https://elections.bc.ca/local-elections/2026-general-local-elections/",
+  "topics": [
+    "housing",
+    "homelessness_and_health",
+    "public_safety",
+    "transportation",
+    "taxes_and_budget",
+    "downtown_and_local_economy",
+    "climate_and_public_realm",
+    "governance_and_amalgamation",
+    "parks",
+    "arts_and_culture",
+    "indigenous_relations",
+    "other"
+  ]
+}

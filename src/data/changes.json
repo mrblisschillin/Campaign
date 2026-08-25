@@ -1,0 +1,101 @@
+[
+  {
+    "id": "2026-08-24-campaign-pages-confirmed",
+    "date": "2026-08-24",
+    "type": "new_candidate",
+    "summary": "Current campaign pages independently confirmed Shona Dion, Marg Gardiner, Martin Girard and Krista Loughton as publicly announced council candidates in the initial monitor snapshot.",
+    "candidateIds": ["shona-dion", "marg-gardiner", "martin-girard", "krista-loughton"],
+    "newsIds": ["2026-08-24-dion-campaign", "2026-08-24-gardiner-campaign", "2026-08-24-girard-campaign", "2026-08-24-loughton-campaign"],
+    "sourceUrl": "https://www.shonadion4victoria.ca/"
+  },
+  {
+    "id": "2026-08-24-initial-research-audit",
+    "date": "2026-08-24",
+    "type": "coverage_added",
+    "summary": "Initial source audit completed. Four additional public candidate listings were included from the best available discovery evidence; none are presented as official City filings.",
+    "candidateIds": ["lyall-atkinson", "bruce-mcguigan", "matthew-schryer", "owen-haley"],
+    "newsIds": ["2026-08-24-city-election-information"],
+    "sourceUrl": "https://www.victoria.ca/city-government/elections"
+  },
+  {
+    "id": "2026-08-23-thompson-platform-refresh",
+    "date": "2026-08-23",
+    "type": "platform_change",
+    "summary": "Dave Thompson's refreshed campaign page confirms his re-election bid and describes housing, safety, vulnerable residents and climate as developing priorities.",
+    "candidateIds": ["dave-thompson"],
+    "newsIds": ["2026-08-23-thompson-campaign"],
+    "sourceUrl": "https://davethompsonvictoria.ca/"
+  },
+  {
+    "id": "2026-08-17-vfa-candidates-added",
+    "date": "2026-08-17",
+    "type": "new_candidate",
+    "summary": "Susan Kim and Peter Rose Gibbs were added as publicly announced Victoria For All council candidates following the organization's launch.",
+    "candidateIds": ["susan-kim", "peter-rose-gibbs"],
+    "newsIds": ["2026-08-17-victoria-for-all-launch"],
+    "sourceUrl": "https://victoriabuzz.com/2026/08/new-political-slate-victoria-for-all-launches-3-candidates-in-upcoming-local-election/"
+  },
+  {
+    "id": "2026-07-19-garcia-added",
+    "date": "2026-07-19",
+    "type": "new_candidate",
+    "summary": "Jerry Garcia was added as a publicly announced council candidate from his campaign announcement.",
+    "candidateIds": ["jerry-garcia"],
+    "newsIds": ["2026-07-19-garcia-campaign"],
+    "sourceUrl": "https://jerryforvictoria.ca/"
+  },
+  {
+    "id": "2026-07-06-hammond-added",
+    "date": "2026-07-06",
+    "type": "new_candidate",
+    "summary": "Stephen Hammond was added as a publicly announced council re-election candidate from his campaign site.",
+    "candidateIds": ["stephen-hammond"],
+    "newsIds": ["2026-07-06-hammond-campaign"],
+    "sourceUrl": "https://www.votestephenhammond.ca/"
+  },
+  {
+    "id": "2026-06-30-lee-sandor-added",
+    "date": "2026-06-30",
+    "type": "new_candidate",
+    "summary": "Bella Lee and Jack Sandor were added as publicly announced council candidates following local reporting on their launches.",
+    "candidateIds": ["bella-lee", "jack-sandor"],
+    "newsIds": ["2026-06-30-lee-sandor-launch"],
+    "sourceUrl": "https://victoriabuzz.com/2026/06/duo-of-young-candidates-running-for-victoria-city-council-with-focus-on-housing/"
+  },
+  {
+    "id": "2026-06-25-mcinnis-added",
+    "date": "2026-06-25",
+    "type": "new_candidate",
+    "summary": "Arthur McInnis was added as a publicly announced council candidate from his campaign site.",
+    "candidateIds": ["arthur-mcinnis"],
+    "newsIds": ["2026-06-25-mcinnis-campaign"],
+    "sourceUrl": "https://www.arthurmcinnis.ca/"
+  },
+  {
+    "id": "2026-05-20-alto-added",
+    "date": "2026-05-20",
+    "type": "new_candidate",
+    "summary": "Marianne Alto was added as a publicly announced mayoral re-election candidate following local reporting on her campaign launch.",
+    "candidateIds": ["marianne-alto"],
+    "newsIds": ["2026-05-20-alto-re-election-launch"],
+    "sourceUrl": "https://victoriabuzz.com/2026/05/victoria-mayor-marianne-alto-launches-re-election-campaign/"
+  },
+  {
+    "id": "2026-05-spring-council-field",
+    "date": "2026-05-27",
+    "type": "new_candidate",
+    "summary": "Wendy Bowkett, Melissa Cseszko and Karen Rothe were added as publicly announced council candidates after their campaign materials were reviewed.",
+    "candidateIds": ["wendy-bowkett", "melissa-cseszko", "karen-rothe"],
+    "newsIds": ["2026-05-15-bowkett-campaign", "2026-05-12-cseszko-campaign", "2026-05-27-rothe-campaign"],
+    "sourceUrl": "https://www.karenrothe.ca/"
+  },
+  {
+    "id": "2025-12-incumbent-announcements",
+    "date": "2025-12-31",
+    "type": "new_candidate",
+    "summary": "Jeremy Caradonna and Matt Dell were added as publicly announced council re-election candidates from their announcement coverage and campaign material.",
+    "candidateIds": ["jeremy-caradonna", "matt-dell"],
+    "newsIds": ["2025-12-19-caradonna-re-election", "2025-12-31-dell-campaign"],
+    "sourceUrl": "https://victoriabuzz.com/2025/12/jeremy-caradonna-announces-plans-to-seek-re-election-as-victoria-city-councillor/"
+  }
+]
