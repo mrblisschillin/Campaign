@@ -75,7 +75,7 @@
     "biography": "Atkinson is publicly listed for the 2026 Victoria mayoral race by Livable CRD. He was also a candidate for mayor in Victoria's 2022 election and appears in the City's official results for that election.",
     "campaignWebsite": null,
     "campaignLinks": [],
-    "photo": { "url": null, "sourceUrl": null, "credit": null, "alt": "Initials avatar for Lyall Atkinson" },
+    "photo": { "url": "/candidate-photos/lyall-atkinson.jpg", "sourceUrl": "https://www.victoria.ca/media/file/candidate-profiles-2022", "credit": "Candidate-submitted City of Victoria profile", "alt": "Lyall Atkinson outside Victoria City Hall" },
     "platform": [],
     "recentNewsIds": [],
     "lastVerified": "2026-08-25T09:50:05-07:00",
@@ -101,7 +101,7 @@
     "biography": "McGuigan is publicly listed for the 2026 Victoria mayoral race by Livable CRD. He previously ran for mayor in 2018 and was described at that time as a sociology professor and former executive director of Family Services of Greater Victoria.",
     "campaignWebsite": null,
     "campaignLinks": [],
-    "photo": { "url": null, "sourceUrl": null, "credit": null, "alt": "Initials avatar for Bruce McGuigan" },
+    "photo": { "url": "/candidate-photos/bruce-mcguigan.jpg", "sourceUrl": "https://www.socialpurposerealestate.net/content/victoria-social-innovation-centre.html", "credit": "Jacqueline Gijssen", "alt": "Bruce McGuigan, right, with David Lau outside the Victoria Social Innovation Centre" },
     "platform": [],
     "recentNewsIds": [],
     "lastVerified": "2026-08-25T09:50:05-07:00",
@@ -124,10 +124,12 @@
     "incumbent": false,
     "incumbencySourceUrl": "https://www.victoria.ca/city-government/mayor-council/members-council",
     "affiliation": null,
-    "biography": "Schryer is publicly listed for the 2026 Victoria mayoral race by Livable CRD. No candidate-owned biography or campaign website was located in the initial research snapshot.",
+    "biography": "Schryer is publicly listed for the 2026 Victoria mayoral race by Livable CRD. His campaign Instagram identifies him as a candidate for mayor of Victoria in 2026.",
     "campaignWebsite": null,
-    "campaignLinks": [],
-    "photo": { "url": null, "sourceUrl": null, "credit": null, "alt": "Initials avatar for Matthew Schryer" },
+    "campaignLinks": [
+      { "label": "Campaign Instagram", "url": "https://www.instagram.com/matthewschryerformayor/", "type": "instagram" }
+    ],
+    "photo": { "url": "/candidate-photos/matthew-schryer.jpg", "sourceUrl": "https://www.instagram.com/matthewschryerformayor/", "credit": "Matthew Schryer campaign / Instagram", "alt": "Portrait of Matthew Schryer" },
     "platform": [],
     "recentNewsIds": [],
     "lastVerified": "2026-08-25T09:50:05-07:00",
@@ -380,7 +382,7 @@
     "campaignLinks": [
       { "label": "Campaign website", "url": "https://www.shonadion4victoria.ca/", "type": "website" }
     ],
-    "photo": { "url": null, "sourceUrl": "https://www.shonadion4victoria.ca/", "credit": null, "alt": "Initials avatar for Shona Dion" },
+    "photo": { "url": "/candidate-photos/shona-dion.png", "sourceUrl": "https://www.shonadion4victoria.ca/", "credit": "Shona Dion campaign", "alt": "Shona Dion campaign portrait" },
     "platform": [
       {
         "id": "dion-housing-2026",
@@ -555,7 +557,7 @@
       { "label": "Bluesky", "url": "https://bsky.app/profile/peterrosegibbs.bsky.social", "type": "bluesky" }
     ],
     "photo": {
-      "url": "https://images.solidarity.tech/fit-in/800x0/filters%3Ano_upscale%28%29/chvwavyb3nl5wjzpm5ezsknjuo8g",
+      "url": "/candidate-photos/peter-rose-gibbs.jpg",
       "sourceUrl": "https://www.victoriaforall.ca/about",
       "credit": "Victoria For All",
       "alt": "Campaign portrait of Peter Rose Gibbs"
@@ -733,7 +735,7 @@
       { "label": "Victoria For All profile", "url": "https://www.victoriaforall.ca/about", "type": "website" }
     ],
     "photo": {
-      "url": "https://images.solidarity.tech/fit-in/800x0/filters%3Ano_upscale%28%29/so7zkkkwmu7iadfgo6offbbjowip",
+      "url": "/candidate-photos/susan-kim.jpg",
       "sourceUrl": "https://www.victoriaforall.ca/about",
       "credit": "Victoria For All",
       "alt": "Campaign portrait of Susan Kim"
@@ -1129,7 +1131,7 @@
     "biography": "Haley is publicly listed for the 2026 Victoria council race by Livable CRD. No candidate-owned biography or campaign website was located in the initial research snapshot.",
     "campaignWebsite": null,
     "campaignLinks": [],
-    "photo": { "url": null, "sourceUrl": null, "credit": null, "alt": "Initials avatar for Owen Haley" },
+    "photo": { "url": "/candidate-photos/owen-haley.jpg", "sourceUrl": "https://ca.linkedin.com/in/owen-haley-538a6b13a", "credit": "Owen Haley / LinkedIn", "alt": "Portrait of Owen Haley" },
     "platform": [],
     "recentNewsIds": [],
     "lastVerified": "2026-08-25T09:50:05-07:00",

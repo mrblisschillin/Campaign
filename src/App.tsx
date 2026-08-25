@@ -111,7 +111,7 @@ function Portrait({ candidate, large = false }: { candidate: Candidate; large?: 
   const [failed, setFailed] = useState(false);
   const showImage = Boolean(candidate.photo.url) && !failed;
   return (
-    <div className={`portrait${large ? ' portrait-large' : ''}${showImage ? '' : ' initials'}`}>
+    <div className={`portrait portrait-${candidate.id}${large ? ' portrait-large' : ''}${showImage ? '' : ' initials'}`}>
       {showImage ? <img src={candidate.photo.url!} alt={candidate.photo.alt} onError={() => setFailed(true)} /> : <span aria-label={candidate.photo.alt}>{initials(candidate.name)}</span>}
     </div>
   );

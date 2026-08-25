@@ -1,4 +1,4 @@
-import { readFileSync } from 'node:fs';
+import { existsSync, readFileSync } from 'node:fs';
 import { resolve } from 'node:path';
 import { candidateStatuses, platformTopics } from '../src/types.js';
 
@@ -63,6 +63,17 @@ function checkUrl(value: unknown, location: string, allowNull = false) {
   }
 }
 
+function checkPhotoUrl(value: unknown, location: string) {
+  if (typeof value === 'string' && value.startsWith('/') && !value.startsWith('//')) {
+    const publicRoot = resolve(root, 'public');
+    const assetPath = resolve(publicRoot, value.slice(1));
+    check(assetPath.startsWith(`${publicRoot}/`), location, 'local asset must stay within public/');
+    check(existsSync(assetPath), location, `local asset does not exist (${value})`);
+    return;
+  }
+  checkUrl(value, location);
+}
+
 function uniqueIds(records: UnknownRecord[], label: string): Set<string> {
   const ids = new Set<string>();
   for (const [index, record] of records.entries()) {
@@ -125,10 +136,10 @@ for (const [index, candidate] of candidates.entries()) {
   }
   check(isRecord(candidate.photo), `${at}.photo`, 'required object');
   if (isRecord(candidate.photo)) {
-    checkUrl(candidate.photo.url, `${at}.photo.url`, true);
-    checkUrl(candidate.photo.sourceUrl, `${at}.photo.sourceUrl`, true);
+    checkPhotoUrl(candidate.photo.url, `${at}.photo.url`);
+    checkUrl(candidate.photo.sourceUrl, `${at}.photo.sourceUrl`);
     check(typeof candidate.photo.alt === 'string' && candidate.photo.alt.length > 0, `${at}.photo.alt`, 'required');
-    if (candidate.photo.url !== null) check(typeof candidate.photo.credit === 'string' && candidate.photo.credit.length > 0, `${at}.photo.credit`, 'required when a photograph is used');
+    check(typeof candidate.photo.credit === 'string' && candidate.photo.credit.length > 0, `${at}.photo.credit`, 'required');
   }
   check(Array.isArray(candidate.platform), `${at}.platform`, 'must be an array');
   if (Array.isArray(candidate.platform)) {
