@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026-08-25-lyall-atkinson-needs-review",
+    "date": "2026-08-25",
+    "type": "status_change",
+    "summary": "Lyall Atkinson's record now requires review because no direct 2026 campaign announcement or qualifying local reporting was located beyond a discovery profile.",
+    "candidateIds": ["lyall-atkinson"],
+    "newsIds": [],
+    "sourceUrl": "https://livablecrd.ca/scorecard/victoria/lyall-atkinson/"
+  },
+  {
+    "id": "2026-08-25-bruce-mcguigan-needs-review",
+    "date": "2026-08-25",
+    "type": "status_change",
+    "summary": "Bruce McGuigan's record now requires review because no direct 2026 campaign announcement or qualifying local reporting was located beyond a discovery profile.",
+    "candidateIds": ["bruce-mcguigan"],
+    "newsIds": [],
+    "sourceUrl": "https://livablecrd.ca/scorecard/victoria/bruce-mcguigan/"
+  },
+  {
+    "id": "2026-08-25-matthew-schryer-needs-review",
+    "date": "2026-08-25",
+    "type": "status_change",
+    "summary": "Matthew Schryer's record now requires review because no direct 2026 campaign announcement or qualifying local reporting was located beyond a discovery profile.",
+    "candidateIds": ["matthew-schryer"],
+    "newsIds": [],
+    "sourceUrl": "https://livablecrd.ca/scorecard/victoria/matthew-schryer/"
+  },
+  {
+    "id": "2026-08-25-owen-haley-needs-review",
+    "date": "2026-08-25",
+    "type": "status_change",
+    "summary": "Owen Haley's record now requires review because no direct 2026 campaign announcement or qualifying local reporting was located beyond a discovery profile.",
+    "candidateIds": ["owen-haley"],
+    "newsIds": [],
+    "sourceUrl": "https://livablecrd.ca/scorecard/victoria/owen-haley/"
+  },
+  {
     "id": "2026-08-24-campaign-pages-confirmed",
     "date": "2026-08-24",
     "type": "new_candidate",

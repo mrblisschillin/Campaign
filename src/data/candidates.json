@@ -62,8 +62,8 @@
     "name": "Lyall Atkinson",
     "aliases": [],
     "office": "mayor",
-    "status": "publicly_announced",
-    "statusDate": "2026-08-24",
+    "status": "needs_review",
+    "statusDate": "2026-08-25",
     "statusSource": {
       "url": "https://livablecrd.ca/scorecard/victoria/lyall-atkinson/",
       "label": "Livable CRD discovery profile",
@@ -78,9 +78,9 @@
     "photo": { "url": null, "sourceUrl": null, "credit": null, "alt": "Initials avatar for Lyall Atkinson" },
     "platform": [],
     "recentNewsIds": [],
-    "lastVerified": "2026-08-24T15:30:00-07:00",
-    "needsReview": false,
-    "needsReviewExplanation": null,
+    "lastVerified": "2026-08-25T09:50:05-07:00",
+    "needsReview": true,
+    "needsReviewExplanation": "No direct 2026 City of Victoria campaign announcement or qualifying local reporting was located; the current evidence is limited to a Livable CRD discovery profile and prior 2022 election results, which is insufficient to confirm a current candidacy before nominations open.",
     "manualNotes": ""
   },
   {
@@ -88,8 +88,8 @@
     "name": "Bruce McGuigan",
     "aliases": [],
     "office": "mayor",
-    "status": "publicly_announced",
-    "statusDate": "2026-08-24",
+    "status": "needs_review",
+    "statusDate": "2026-08-25",
     "statusSource": {
       "url": "https://livablecrd.ca/scorecard/victoria/bruce-mcguigan/",
       "label": "Livable CRD discovery profile",
@@ -104,9 +104,9 @@
     "photo": { "url": null, "sourceUrl": null, "credit": null, "alt": "Initials avatar for Bruce McGuigan" },
     "platform": [],
     "recentNewsIds": [],
-    "lastVerified": "2026-08-24T15:30:00-07:00",
-    "needsReview": false,
-    "needsReviewExplanation": null,
+    "lastVerified": "2026-08-25T09:50:05-07:00",
+    "needsReview": true,
+    "needsReviewExplanation": "No direct 2026 City of Victoria campaign announcement or qualifying local reporting was located; the current evidence is limited to a Livable CRD discovery profile and an older 2018 mayoral candidacy, which is insufficient to confirm a current candidacy before nominations open.",
     "manualNotes": ""
   },
   {
@@ -114,8 +114,8 @@
     "name": "Matthew Schryer",
     "aliases": [],
     "office": "mayor",
-    "status": "publicly_announced",
-    "statusDate": "2026-08-24",
+    "status": "needs_review",
+    "statusDate": "2026-08-25",
     "statusSource": {
       "url": "https://livablecrd.ca/scorecard/victoria/matthew-schryer/",
       "label": "Livable CRD discovery profile",
@@ -130,9 +130,9 @@
     "photo": { "url": null, "sourceUrl": null, "credit": null, "alt": "Initials avatar for Matthew Schryer" },
     "platform": [],
     "recentNewsIds": [],
-    "lastVerified": "2026-08-24T15:30:00-07:00",
-    "needsReview": false,
-    "needsReviewExplanation": null,
+    "lastVerified": "2026-08-25T09:50:05-07:00",
+    "needsReview": true,
+    "needsReviewExplanation": "No direct 2026 City of Victoria campaign announcement or qualifying local reporting was located; the current evidence is limited to a Livable CRD discovery profile, which is insufficient to confirm a current candidacy before nominations open.",
     "manualNotes": ""
   },
   {
@@ -1116,8 +1116,8 @@
     "name": "Owen Haley",
     "aliases": [],
     "office": "councillor",
-    "status": "publicly_announced",
-    "statusDate": "2026-08-24",
+    "status": "needs_review",
+    "statusDate": "2026-08-25",
     "statusSource": {
       "url": "https://livablecrd.ca/scorecard/victoria/owen-haley/",
       "label": "Livable CRD discovery profile",
@@ -1132,9 +1132,9 @@
     "photo": { "url": null, "sourceUrl": null, "credit": null, "alt": "Initials avatar for Owen Haley" },
     "platform": [],
     "recentNewsIds": [],
-    "lastVerified": "2026-08-24T15:30:00-07:00",
-    "needsReview": false,
-    "needsReviewExplanation": null,
+    "lastVerified": "2026-08-25T09:50:05-07:00",
+    "needsReview": true,
+    "needsReviewExplanation": "No direct 2026 City of Victoria campaign announcement or qualifying local reporting was located; the current evidence is limited to a Livable CRD discovery profile, which is insufficient to confirm a current candidacy before nominations open.",
     "manualNotes": ""
   }
 ]
