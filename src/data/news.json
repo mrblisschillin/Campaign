@@ -1,5 +1,47 @@
 [
   {
+    "id": "2026-09-01-ctv-candidate-field",
+    "headline": "Victoria mayor and council candidates make their cases as nominations open",
+    "publisher": "CTV News",
+    "canonicalUrl": "https://www.ctvnews.ca/vancouver/vancouver-island/article/victoria-mayor-and-council-race-candidates-make-their-cases-ahead-of-2026-election/",
+    "publicationDate": "2026-09-01",
+    "retrievalDate": "2026-09-01",
+    "type": "reporting",
+    "summary": "CTV reports detailed campaign priorities from Marianne Alto, Bruce McGuigan and eight council candidates, covering housing, homelessness, safety, taxes, public accountability, climate resilience, regional services, transportation and the downtown economy.",
+    "candidateIds": ["marianne-alto", "bruce-mcguigan", "jeremy-caradonna", "matt-dell", "jerry-garcia", "marg-gardiner", "stephen-hammond", "susan-kim", "krista-loughton", "dave-thompson"],
+    "topics": ["housing", "homelessness_and_health", "public_safety", "transportation", "taxes_and_budget", "downtown_and_local_economy", "climate_and_public_realm", "governance_and_amalgamation", "arts_and_culture"],
+    "limitedAccess": false,
+    "relatedUrls": ["https://www.victoria.ca/city-government/news/nomination-period-opens-tomorrow-victoria-election-2026"]
+  },
+  {
+    "id": "2026-09-01-mcguigan-campaign",
+    "headline": "Bruce McGuigan publishes mayoral campaign priorities",
+    "publisher": "Bruce McGuigan campaign",
+    "canonicalUrl": "https://bruceformayor.ca/",
+    "publicationDate": null,
+    "retrievalDate": "2026-09-01",
+    "type": "campaign_release",
+    "summary": "McGuigan's candidate-owned site confirms his mayoral campaign and sets out positions on homelessness, housing, public safety, accountable government, local economic development, climate resilience and the arts. The page did not expose a publication date.",
+    "candidateIds": ["bruce-mcguigan"],
+    "topics": ["housing", "homelessness_and_health", "public_safety", "taxes_and_budget", "downtown_and_local_economy", "climate_and_public_realm", "governance_and_amalgamation", "arts_and_culture"],
+    "limitedAccess": false,
+    "relatedUrls": []
+  },
+  {
+    "id": "2026-08-31-nominations-open",
+    "headline": "Nomination period opens for Victoria Election 2026",
+    "publisher": "City of Victoria",
+    "canonicalUrl": "https://www.victoria.ca/city-government/news/nomination-period-opens-tomorrow-victoria-election-2026",
+    "publicationDate": "2026-08-31",
+    "retrievalDate": "2026-09-01",
+    "type": "official_notice",
+    "summary": "The City says nomination packages may be filed from September 1 at 9 a.m. until September 11 at 4 p.m. No Victoria mayoral or council filings appeared in the official sources checked for this update.",
+    "candidateIds": [],
+    "topics": ["governance_and_amalgamation"],
+    "limitedAccess": false,
+    "relatedUrls": ["https://www.victoria.ca/city-government/elections", "https://elections.bc.ca/local-elections/candidate-information/"]
+  },
+  {
     "id": "2026-08-24-city-election-information",
     "headline": "City posts 2026 election and nomination information",
     "publisher": "City of Victoria",

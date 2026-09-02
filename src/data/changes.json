@@ -1,5 +1,32 @@
 [
   {
+    "id": "2026-09-01-ctv-candidate-priorities",
+    "date": "2026-09-01",
+    "type": "platform_change",
+    "summary": "New interview-based platform details were recorded for Marianne Alto, Bruce McGuigan and eight council candidates from CTV's election-field report.",
+    "candidateIds": ["marianne-alto", "bruce-mcguigan", "jeremy-caradonna", "matt-dell", "jerry-garcia", "marg-gardiner", "stephen-hammond", "susan-kim", "krista-loughton", "dave-thompson"],
+    "newsIds": ["2026-09-01-ctv-candidate-field"],
+    "sourceUrl": "https://www.ctvnews.ca/vancouver/vancouver-island/article/victoria-mayor-and-council-race-candidates-make-their-cases-ahead-of-2026-election/"
+  },
+  {
+    "id": "2026-09-01-mcguigan-campaign-site",
+    "date": "2026-09-01",
+    "type": "platform_change",
+    "summary": "Bruce McGuigan's new candidate-owned site replaced the monitor's discovery-only status citation and added sourced positions across seven policy areas.",
+    "candidateIds": ["bruce-mcguigan"],
+    "newsIds": ["2026-09-01-mcguigan-campaign"],
+    "sourceUrl": "https://bruceformayor.ca/"
+  },
+  {
+    "id": "2026-08-31-nomination-period-open",
+    "date": "2026-08-31",
+    "type": "coverage_added",
+    "summary": "The City announced that candidate nominations are accepted from September 1 through September 11; no Victoria mayoral or council filings were yet visible in the official sources checked.",
+    "candidateIds": [],
+    "newsIds": ["2026-08-31-nominations-open"],
+    "sourceUrl": "https://www.victoria.ca/city-government/news/nomination-period-opens-tomorrow-victoria-election-2026"
+  },
+  {
     "id": "2026-08-24-campaign-pages-confirmed",
     "date": "2026-08-24",
     "type": "new_candidate",

@@ -29,18 +29,18 @@
       {
         "id": "alto-housing-2026",
         "topic": "housing",
-        "summary": "Her re-election launch identifies unlocking more homes as a core priority.",
-        "sourceUrl": "https://victoriabuzz.com/2026/05/victoria-mayor-marianne-alto-launches-re-election-campaign/",
+        "summary": "She identifies renter protection and housing affordability as priorities for another term.",
+        "sourceUrl": "https://www.ctvnews.ca/vancouver/vancouver-island/article/victoria-mayor-and-council-race-candidates-make-their-cases-ahead-of-2026-election/",
         "sourceType": "independent_reporting",
-        "verifiedDate": "2026-08-24"
+        "verifiedDate": "2026-09-01"
       },
       {
         "id": "alto-safety-wellbeing-2026",
         "topic": "public_safety",
-        "summary": "She links community safety with coordinated wellbeing services and has called for a regional approach to policing.",
-        "sourceUrl": "https://victoriabuzz.com/2026/05/victoria-mayor-marianne-alto-launches-re-election-campaign/",
+        "summary": "She describes a prevention, intervention and response approach to community safety and wellbeing.",
+        "sourceUrl": "https://www.ctvnews.ca/vancouver/vancouver-island/article/victoria-mayor-and-council-race-candidates-make-their-cases-ahead-of-2026-election/",
         "sourceType": "independent_reporting",
-        "verifiedDate": "2026-08-24"
+        "verifiedDate": "2026-09-01"
       },
       {
         "id": "alto-parks-arts-2026",
@@ -49,10 +49,18 @@
         "sourceUrl": "https://victoriabuzz.com/2026/05/victoria-mayor-marianne-alto-launches-re-election-campaign/",
         "sourceType": "independent_reporting",
         "verifiedDate": "2026-08-24"
+      },
+      {
+        "id": "alto-budget-2026",
+        "topic": "taxes_and_budget",
+        "summary": "She says another term would include maintaining a responsible municipal budget.",
+        "sourceUrl": "https://www.ctvnews.ca/vancouver/vancouver-island/article/victoria-mayor-and-council-race-candidates-make-their-cases-ahead-of-2026-election/",
+        "sourceType": "independent_reporting",
+        "verifiedDate": "2026-09-01"
       }
     ],
-    "recentNewsIds": ["2026-05-20-alto-re-election-launch"],
-    "lastVerified": "2026-08-24T15:30:00-07:00",
+    "recentNewsIds": ["2026-09-01-ctv-candidate-field", "2026-05-20-alto-re-election-launch"],
+    "lastVerified": "2026-09-01T19:47:25-07:00",
     "needsReview": false,
     "needsReviewExplanation": null,
     "manualNotes": ""
@@ -78,7 +86,7 @@
     "photo": { "url": "/candidate-photos/lyall-atkinson.jpg", "sourceUrl": "https://www.victoria.ca/media/file/candidate-profiles-2022", "credit": "Candidate-submitted City of Victoria profile", "alt": "Lyall Atkinson outside Victoria City Hall" },
     "platform": [],
     "recentNewsIds": [],
-    "lastVerified": "2026-08-25T09:50:05-07:00",
+    "lastVerified": "2026-09-01T19:47:25-07:00",
     "needsReview": false,
     "needsReviewExplanation": null,
     "manualNotes": ""
@@ -91,20 +99,79 @@
     "status": "publicly_announced",
     "statusDate": "2026-08-24",
     "statusSource": {
-      "url": "https://livablecrd.ca/scorecard/victoria/bruce-mcguigan/",
-      "label": "Livable CRD discovery profile",
-      "sourceType": "discovery_source"
+      "url": "https://bruceformayor.ca/",
+      "label": "Candidate mayoral campaign website",
+      "sourceType": "candidate_website"
     },
     "incumbent": false,
     "incumbencySourceUrl": "https://www.victoria.ca/city-government/mayor-council/members-council",
     "affiliation": null,
-    "biography": "McGuigan is publicly listed for the 2026 Victoria mayoral race by Livable CRD. He previously ran for mayor in 2018 and was described at that time as a sociology professor and former executive director of Family Services of Greater Victoria.",
-    "campaignWebsite": null,
-    "campaignLinks": [],
+    "biography": "McGuigan's campaign describes a career in education, community development, public service and social innovation, including work as a university professor and leader of non-profit organizations. He previously ran for Victoria mayor in 2018.",
+    "campaignWebsite": "https://bruceformayor.ca/",
+    "campaignLinks": [
+      { "label": "Campaign website", "url": "https://bruceformayor.ca/", "type": "website" }
+    ],
     "photo": { "url": "/candidate-photos/bruce-mcguigan.jpg", "sourceUrl": "https://www.socialpurposerealestate.net/content/victoria-social-innovation-centre.html", "credit": "Jacqueline Gijssen", "alt": "Bruce McGuigan, right, with David Lau outside the Victoria Social Innovation Centre" },
-    "platform": [],
-    "recentNewsIds": [],
-    "lastVerified": "2026-08-25T09:50:05-07:00",
+    "platform": [
+      {
+        "id": "mcguigan-homelessness-2026",
+        "topic": "homelessness_and_health",
+        "summary": "He calls for coordinated housing, health, treatment and recovery systems aimed at making homelessness rare, brief and non-recurring.",
+        "sourceUrl": "https://bruceformayor.ca/",
+        "sourceType": "candidate_website",
+        "verifiedDate": "2026-09-01"
+      },
+      {
+        "id": "mcguigan-housing-2026",
+        "topic": "housing",
+        "summary": "He supports market and non-market housing, family-sized rentals, affordable ownership paths and protection of existing lower-cost rentals.",
+        "sourceUrl": "https://bruceformayor.ca/",
+        "sourceType": "candidate_website",
+        "verifiedDate": "2026-09-01"
+      },
+      {
+        "id": "mcguigan-governance-2026",
+        "topic": "governance_and_amalgamation",
+        "summary": "He proposes open decision-making, understandable budgets, transparent contracts and earlier, continuous public consultation.",
+        "sourceUrl": "https://bruceformayor.ca/",
+        "sourceType": "candidate_website",
+        "verifiedDate": "2026-09-01"
+      },
+      {
+        "id": "mcguigan-safety-2026",
+        "topic": "public_safety",
+        "summary": "He supports policing and enforcement alongside prevention, public-space design, civilian and health responses, and action on homelessness and addiction.",
+        "sourceUrl": "https://bruceformayor.ca/",
+        "sourceType": "candidate_website",
+        "verifiedDate": "2026-09-01"
+      },
+      {
+        "id": "mcguigan-economy-2026",
+        "topic": "downtown_and_local_economy",
+        "summary": "He proposes stronger City partnership with local businesses, a continuing buy-local campaign and procurement that keeps more spending in the community.",
+        "sourceUrl": "https://bruceformayor.ca/",
+        "sourceType": "candidate_website",
+        "verifiedDate": "2026-09-01"
+      },
+      {
+        "id": "mcguigan-climate-2026",
+        "topic": "climate_and_public_realm",
+        "summary": "He supports practical climate-resilience work on buildings, extreme heat, smoke, water, food security, transit and active transportation.",
+        "sourceUrl": "https://bruceformayor.ca/",
+        "sourceType": "candidate_website",
+        "verifiedDate": "2026-09-01"
+      },
+      {
+        "id": "mcguigan-arts-2026",
+        "topic": "arts_and_culture",
+        "summary": "He says Victoria should support conditions in which artists and cultural organizations can live, work and create.",
+        "sourceUrl": "https://bruceformayor.ca/",
+        "sourceType": "candidate_website",
+        "verifiedDate": "2026-09-01"
+      }
+    ],
+    "recentNewsIds": ["2026-09-01-mcguigan-campaign", "2026-09-01-ctv-candidate-field"],
+    "lastVerified": "2026-09-01T19:47:25-07:00",
     "needsReview": false,
     "needsReviewExplanation": null,
     "manualNotes": ""
@@ -132,7 +199,7 @@
     "photo": { "url": "/candidate-photos/matthew-schryer.jpg", "sourceUrl": "https://www.instagram.com/matthewschryerformayor/", "credit": "Matthew Schryer campaign / Instagram", "alt": "Portrait of Matthew Schryer" },
     "platform": [],
     "recentNewsIds": [],
-    "lastVerified": "2026-08-25T09:50:05-07:00",
+    "lastVerified": "2026-09-01T19:47:25-07:00",
     "needsReview": false,
     "needsReviewExplanation": null,
     "manualNotes": ""
@@ -190,7 +257,7 @@
       }
     ],
     "recentNewsIds": ["2026-05-15-bowkett-campaign"],
-    "lastVerified": "2026-08-24T15:30:00-07:00",
+    "lastVerified": "2026-09-01T19:47:25-07:00",
     "needsReview": false,
     "needsReviewExplanation": null,
     "manualNotes": ""
@@ -238,10 +305,26 @@
         "sourceUrl": "https://victoriabuzz.com/2025/12/jeremy-caradonna-announces-plans-to-seek-re-election-as-victoria-city-councillor/",
         "sourceType": "independent_reporting",
         "verifiedDate": "2026-08-24"
+      },
+      {
+        "id": "caradonna-waste-utility-2026",
+        "topic": "climate_and_public_realm",
+        "summary": "He proposes a municipal waste utility to provide garbage, recycling and compost collection across building types and institutions.",
+        "sourceUrl": "https://www.ctvnews.ca/vancouver/vancouver-island/article/victoria-mayor-and-council-race-candidates-make-their-cases-ahead-of-2026-election/",
+        "sourceType": "independent_reporting",
+        "verifiedDate": "2026-09-01"
+      },
+      {
+        "id": "caradonna-regional-transit-2026",
+        "topic": "transportation",
+        "summary": "He supports examining regional rail and transit potential through the Capital Regional District.",
+        "sourceUrl": "https://www.ctvnews.ca/vancouver/vancouver-island/article/victoria-mayor-and-council-race-candidates-make-their-cases-ahead-of-2026-election/",
+        "sourceType": "independent_reporting",
+        "verifiedDate": "2026-09-01"
       }
     ],
-    "recentNewsIds": ["2025-12-19-caradonna-re-election"],
-    "lastVerified": "2026-08-24T15:30:00-07:00",
+    "recentNewsIds": ["2026-09-01-ctv-candidate-field", "2025-12-19-caradonna-re-election"],
+    "lastVerified": "2026-09-01T19:47:25-07:00",
     "needsReview": false,
     "needsReviewExplanation": null,
     "manualNotes": ""
@@ -299,7 +382,7 @@
       }
     ],
     "recentNewsIds": ["2026-05-12-cseszko-campaign"],
-    "lastVerified": "2026-08-24T15:30:00-07:00",
+    "lastVerified": "2026-09-01T19:47:25-07:00",
     "needsReview": false,
     "needsReviewExplanation": null,
     "manualNotes": ""
@@ -356,8 +439,8 @@
         "verifiedDate": "2026-08-24"
       }
     ],
-    "recentNewsIds": ["2025-12-31-dell-campaign"],
-    "lastVerified": "2026-08-24T15:30:00-07:00",
+    "recentNewsIds": ["2026-09-01-ctv-candidate-field", "2025-12-31-dell-campaign"],
+    "lastVerified": "2026-09-01T19:47:25-07:00",
     "needsReview": false,
     "needsReviewExplanation": null,
     "manualNotes": ""
@@ -410,7 +493,7 @@
       }
     ],
     "recentNewsIds": ["2026-08-24-dion-campaign"],
-    "lastVerified": "2026-08-24T15:30:00-07:00",
+    "lastVerified": "2026-09-01T19:47:25-07:00",
     "needsReview": false,
     "needsReviewExplanation": null,
     "manualNotes": ""
@@ -465,10 +548,18 @@
         "sourceUrl": "https://jerryforvictoria.ca/",
         "sourceType": "candidate_website",
         "verifiedDate": "2026-08-24"
+      },
+      {
+        "id": "garcia-scorecard-2026",
+        "topic": "governance_and_amalgamation",
+        "summary": "He proposes a public scorecard for major City initiatives so residents can track goals and results.",
+        "sourceUrl": "https://www.ctvnews.ca/vancouver/vancouver-island/article/victoria-mayor-and-council-race-candidates-make-their-cases-ahead-of-2026-election/",
+        "sourceType": "independent_reporting",
+        "verifiedDate": "2026-09-01"
       }
     ],
-    "recentNewsIds": ["2026-07-19-garcia-campaign"],
-    "lastVerified": "2026-08-24T15:30:00-07:00",
+    "recentNewsIds": ["2026-09-01-ctv-candidate-field", "2026-07-19-garcia-campaign"],
+    "lastVerified": "2026-09-01T19:47:25-07:00",
     "needsReview": false,
     "needsReviewExplanation": null,
     "manualNotes": ""
@@ -523,10 +614,18 @@
         "sourceUrl": "https://marggardiner.ca/",
         "sourceType": "candidate_website",
         "verifiedDate": "2026-08-24"
+      },
+      {
+        "id": "gardiner-governance-2026",
+        "topic": "governance_and_amalgamation",
+        "summary": "She calls for greater transparency, public input and scrutiny of municipal spending to rebuild public confidence.",
+        "sourceUrl": "https://www.ctvnews.ca/vancouver/vancouver-island/article/victoria-mayor-and-council-race-candidates-make-their-cases-ahead-of-2026-election/",
+        "sourceType": "independent_reporting",
+        "verifiedDate": "2026-09-01"
       }
     ],
-    "recentNewsIds": ["2026-08-24-gardiner-campaign"],
-    "lastVerified": "2026-08-24T15:30:00-07:00",
+    "recentNewsIds": ["2026-09-01-ctv-candidate-field", "2026-08-24-gardiner-campaign"],
+    "lastVerified": "2026-09-01T19:47:25-07:00",
     "needsReview": false,
     "needsReviewExplanation": null,
     "manualNotes": ""
@@ -589,7 +688,7 @@
       }
     ],
     "recentNewsIds": ["2026-08-17-victoria-for-all-launch"],
-    "lastVerified": "2026-08-24T15:30:00-07:00",
+    "lastVerified": "2026-09-01T19:47:25-07:00",
     "needsReview": false,
     "needsReviewExplanation": null,
     "manualNotes": ""
@@ -647,7 +746,7 @@
       }
     ],
     "recentNewsIds": ["2026-08-24-girard-campaign"],
-    "lastVerified": "2026-08-24T15:30:00-07:00",
+    "lastVerified": "2026-09-01T19:47:25-07:00",
     "needsReview": false,
     "needsReviewExplanation": null,
     "manualNotes": ""
@@ -690,10 +789,10 @@
       {
         "id": "hammond-budget-2026",
         "topic": "taxes_and_budget",
-        "summary": "He argues that property-tax increases should remain affordable for residents.",
-        "sourceUrl": "https://www.votestephenhammond.ca/",
-        "sourceType": "candidate_website",
-        "verifiedDate": "2026-08-24"
+        "summary": "He says recent property-tax increases are unsustainable, cites his votes against the last three budgets and calls for more disciplined spending.",
+        "sourceUrl": "https://www.ctvnews.ca/vancouver/vancouver-island/article/victoria-mayor-and-council-race-candidates-make-their-cases-ahead-of-2026-election/",
+        "sourceType": "independent_reporting",
+        "verifiedDate": "2026-09-01"
       },
       {
         "id": "hammond-housing-2026",
@@ -702,10 +801,18 @@
         "sourceUrl": "https://www.votestephenhammond.ca/",
         "sourceType": "candidate_website",
         "verifiedDate": "2026-08-24"
+      },
+      {
+        "id": "hammond-ocp-2026",
+        "topic": "housing",
+        "summary": "He calls for reconsidering parts of the Official Community Plan because he says its population forecasts are outdated.",
+        "sourceUrl": "https://www.ctvnews.ca/vancouver/vancouver-island/article/victoria-mayor-and-council-race-candidates-make-their-cases-ahead-of-2026-election/",
+        "sourceType": "independent_reporting",
+        "verifiedDate": "2026-09-01"
       }
     ],
-    "recentNewsIds": ["2026-07-06-hammond-campaign"],
-    "lastVerified": "2026-08-24T15:30:00-07:00",
+    "recentNewsIds": ["2026-09-01-ctv-candidate-field", "2026-07-06-hammond-campaign"],
+    "lastVerified": "2026-09-01T19:47:25-07:00",
     "needsReview": false,
     "needsReviewExplanation": null,
     "manualNotes": ""
@@ -760,14 +867,22 @@
       {
         "id": "kim-climate-2026",
         "topic": "climate_and_public_realm",
-        "summary": "The organization says its candidates support retaining and expanding Victoria's urban tree canopy.",
-        "sourceUrl": "https://www.victoriaforall.ca/about",
-        "sourceType": "candidate_website",
-        "verifiedDate": "2026-08-24"
+        "summary": "She supports expanding the tree canopy, improving the resilience of older rentals and using community centres for emergency cooling and response.",
+        "sourceUrl": "https://www.ctvnews.ca/vancouver/vancouver-island/article/victoria-mayor-and-council-race-candidates-make-their-cases-ahead-of-2026-election/",
+        "sourceType": "independent_reporting",
+        "verifiedDate": "2026-09-01"
+      },
+      {
+        "id": "kim-progressive-taxation-2026",
+        "topic": "taxes_and_budget",
+        "summary": "She calls for provincial flexibility that would let Victoria use more progressive forms of municipal taxation.",
+        "sourceUrl": "https://www.ctvnews.ca/vancouver/vancouver-island/article/victoria-mayor-and-council-race-candidates-make-their-cases-ahead-of-2026-election/",
+        "sourceType": "independent_reporting",
+        "verifiedDate": "2026-09-01"
       }
     ],
-    "recentNewsIds": ["2026-08-17-victoria-for-all-launch"],
-    "lastVerified": "2026-08-24T15:30:00-07:00",
+    "recentNewsIds": ["2026-09-01-ctv-candidate-field", "2026-08-17-victoria-for-all-launch"],
+    "lastVerified": "2026-09-01T19:47:25-07:00",
     "needsReview": false,
     "needsReviewExplanation": null,
     "manualNotes": ""
@@ -815,10 +930,26 @@
         "sourceUrl": "https://www.kristaloughton.ca/",
         "sourceType": "candidate_website",
         "verifiedDate": "2026-08-24"
+      },
+      {
+        "id": "loughton-housing-2026",
+        "topic": "housing",
+        "summary": "She supports more non-profit and workforce housing, backed by additional provincial and federal funding.",
+        "sourceUrl": "https://www.ctvnews.ca/vancouver/vancouver-island/article/victoria-mayor-and-council-race-candidates-make-their-cases-ahead-of-2026-election/",
+        "sourceType": "independent_reporting",
+        "verifiedDate": "2026-09-01"
+      },
+      {
+        "id": "loughton-regional-services-2026",
+        "topic": "homelessness_and_health",
+        "summary": "She proposes regionalizing homelessness services, adding sober recovery housing and sharing policing and public-safety costs across the region.",
+        "sourceUrl": "https://www.ctvnews.ca/vancouver/vancouver-island/article/victoria-mayor-and-council-race-candidates-make-their-cases-ahead-of-2026-election/",
+        "sourceType": "independent_reporting",
+        "verifiedDate": "2026-09-01"
       }
     ],
-    "recentNewsIds": ["2026-08-24-loughton-campaign"],
-    "lastVerified": "2026-08-24T15:30:00-07:00",
+    "recentNewsIds": ["2026-09-01-ctv-candidate-field", "2026-08-24-loughton-campaign"],
+    "lastVerified": "2026-09-01T19:47:25-07:00",
     "needsReview": false,
     "needsReviewExplanation": null,
     "manualNotes": ""
@@ -876,7 +1007,7 @@
       }
     ],
     "recentNewsIds": ["2026-06-30-lee-sandor-launch"],
-    "lastVerified": "2026-08-24T15:30:00-07:00",
+    "lastVerified": "2026-09-01T19:47:25-07:00",
     "needsReview": false,
     "needsReviewExplanation": null,
     "manualNotes": ""
@@ -934,7 +1065,7 @@
       }
     ],
     "recentNewsIds": ["2026-06-25-mcinnis-campaign"],
-    "lastVerified": "2026-08-24T15:30:00-07:00",
+    "lastVerified": "2026-09-01T19:47:25-07:00",
     "needsReview": false,
     "needsReviewExplanation": null,
     "manualNotes": ""
@@ -992,7 +1123,7 @@
       }
     ],
     "recentNewsIds": ["2026-05-27-rothe-campaign"],
-    "lastVerified": "2026-08-24T15:30:00-07:00",
+    "lastVerified": "2026-09-01T19:47:25-07:00",
     "needsReview": false,
     "needsReviewExplanation": null,
     "manualNotes": ""
@@ -1050,7 +1181,7 @@
       }
     ],
     "recentNewsIds": ["2026-06-30-lee-sandor-launch"],
-    "lastVerified": "2026-08-24T15:30:00-07:00",
+    "lastVerified": "2026-09-01T19:47:25-07:00",
     "needsReview": false,
     "needsReviewExplanation": null,
     "manualNotes": ""
@@ -1085,18 +1216,18 @@
       {
         "id": "thompson-housing-2026",
         "topic": "housing",
-        "summary": "He identifies building more homes as one of the priorities guiding his developing platform.",
-        "sourceUrl": "https://davethompsonvictoria.ca/",
-        "sourceType": "candidate_website",
-        "verifiedDate": "2026-08-24"
+        "summary": "He supports more affordable rental housing, additional provincial and federal investment, and faster approvals for affordable and other housing.",
+        "sourceUrl": "https://www.ctvnews.ca/vancouver/vancouver-island/article/victoria-mayor-and-council-race-candidates-make-their-cases-ahead-of-2026-election/",
+        "sourceType": "independent_reporting",
+        "verifiedDate": "2026-09-01"
       },
       {
         "id": "thompson-safety-health-2026",
         "topic": "homelessness_and_health",
-        "summary": "He links safer streets with improving support for vulnerable neighbours.",
-        "sourceUrl": "https://davethompsonvictoria.ca/",
-        "sourceType": "candidate_website",
-        "verifiedDate": "2026-08-24"
+        "summary": "He calls for a health-and-housing response to homelessness while linking safer streets with support for vulnerable neighbours.",
+        "sourceUrl": "https://www.ctvnews.ca/vancouver/vancouver-island/article/victoria-mayor-and-council-race-candidates-make-their-cases-ahead-of-2026-election/",
+        "sourceType": "independent_reporting",
+        "verifiedDate": "2026-09-01"
       },
       {
         "id": "thompson-climate-2026",
@@ -1107,8 +1238,8 @@
         "verifiedDate": "2026-08-24"
       }
     ],
-    "recentNewsIds": ["2026-08-23-thompson-campaign"],
-    "lastVerified": "2026-08-24T15:30:00-07:00",
+    "recentNewsIds": ["2026-09-01-ctv-candidate-field", "2026-08-23-thompson-campaign"],
+    "lastVerified": "2026-09-01T19:47:25-07:00",
     "needsReview": false,
     "needsReviewExplanation": null,
     "manualNotes": ""
@@ -1134,7 +1265,7 @@
     "photo": { "url": "/candidate-photos/owen-haley.jpg", "sourceUrl": "https://ca.linkedin.com/in/owen-haley-538a6b13a", "credit": "Owen Haley / LinkedIn", "alt": "Portrait of Owen Haley" },
     "platform": [],
     "recentNewsIds": [],
-    "lastVerified": "2026-08-25T09:50:05-07:00",
+    "lastVerified": "2026-09-01T19:47:25-07:00",
     "needsReview": false,
     "needsReviewExplanation": null,
     "manualNotes": ""
