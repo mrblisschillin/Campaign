@@ -111,7 +111,7 @@
     "campaignLinks": [
       { "label": "Campaign website", "url": "https://bruceformayor.ca/", "type": "website" }
     ],
-    "photo": { "url": "/candidate-photos/bruce-mcguigan.jpg", "sourceUrl": "https://www.socialpurposerealestate.net/content/victoria-social-innovation-centre.html", "credit": "Jacqueline Gijssen", "alt": "Bruce McGuigan, right, with David Lau outside the Victoria Social Innovation Centre" },
+    "photo": { "url": "https://bruceformayor.ca/images/bruce-mcguigan.webp", "sourceUrl": "https://bruceformayor.ca/", "credit": "Bruce McGuigan campaign", "alt": "Campaign portrait of Bruce McGuigan" },
     "platform": [
       {
         "id": "mcguigan-homelessness-2026",
