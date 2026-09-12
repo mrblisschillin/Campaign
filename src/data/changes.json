@@ -1,5 +1,32 @@
 [
   {
+    "id": "2026-09-12-photo-audit",
+    "date": "2026-09-12",
+    "type": "coverage_added",
+    "summary": "A candidate-by-candidate photo audit attached verified public portraits for 17 records, refreshed existing portraits where a better attributable source was found, and retained clearly labelled initials fallbacks for four candidates with no reliable public portrait located.",
+    "candidateIds": [
+      "david-johnston",
+      "marianne-alto",
+      "dave-thompson",
+      "jack-sandor",
+      "james-harasymow",
+      "jason-heit",
+      "jeremy-caradonna",
+      "karen-rothe",
+      "krista-loughton",
+      "matt-dell",
+      "melissa-cseszko",
+      "peter-rose-gibbs",
+      "shona-dion",
+      "stephen-hammond",
+      "steve-filipovic",
+      "susan-kim",
+      "wendy-bowkett"
+    ],
+    "newsIds": [],
+    "sourceUrl": "https://www.victoria.ca/city-government/elections"
+  },
+  {
     "id": "2026-09-12-lyall-atkinson-platform-added",
     "date": "2026-09-12",
     "type": "platform_change",
