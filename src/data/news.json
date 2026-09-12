@@ -47,6 +47,89 @@
     ]
   },
   {
+    "id": "2026-09-12-elections-bc-registered-candidates",
+    "headline": "Elections BC posts registered-candidates finance snapshot",
+    "publisher": "Elections BC",
+    "canonicalUrl": "https://elections.bc.ca/docs/lecfa/Registered-Candidates-LEGE-2026-10-17.pdf",
+    "publicationDate": "2026-09-12",
+    "retrievalDate": "2026-09-12",
+    "type": "official_notice",
+    "summary": "Elections BC published a registered-candidates finance snapshot that includes 14 Victoria mayoral and council records. This is a campaign-finance registration source, not the complete City nomination roster, so the City declaration remains the authority for who is officially declared.",
+    "candidateIds": [
+      "marianne-alto",
+      "lyall-atkinson",
+      "david-johnston",
+      "wendy-bowkett",
+      "jeremy-caradonna",
+      "melissa-cseszko",
+      "matt-dell",
+      "shona-dion",
+      "jerry-garcia",
+      "marg-gardiner",
+      "martin-girard",
+      "stephen-hammond",
+      "karen-rothe",
+      "dave-thompson"
+    ],
+    "topics": [
+      "governance_and_amalgamation",
+      "taxes_and_budget"
+    ],
+    "limitedAccess": false,
+    "relatedUrls": [
+      "https://www.victoria.ca/media/file/declaration-candidates-2026",
+      "https://elections.bc.ca/local-elections/candidate-information/"
+    ]
+  },
+  {
+    "id": "2026-09-12-livable-crd-questionnaire-scorecard",
+    "headline": "Livable CRD publishes Victoria candidate questionnaire snapshot",
+    "publisher": "Livable CRD",
+    "canonicalUrl": "https://livablecrd.ca/scorecard/victoria/",
+    "publicationDate": null,
+    "retrievalDate": "2026-09-12",
+    "type": "reporting",
+    "summary": "The current Livable CRD Victoria scorecard says six candidates returned its questionnaire: Mike Harris, Jeremy Caradonna, Matt Dell, Martin Girard, Bella Lee and Jack Sandor. Individual pages for Bella Lee and Jack Sandor still show no reply, so this is recorded as third-party questionnaire coverage rather than an endorsement or settled response status.",
+    "candidateIds": [
+      "mike-harris",
+      "jeremy-caradonna",
+      "matt-dell",
+      "martin-girard",
+      "bella-lee",
+      "jack-sandor"
+    ],
+    "topics": [
+      "housing",
+      "transportation",
+      "climate_and_public_realm",
+      "governance_and_amalgamation"
+    ],
+    "limitedAccess": false,
+    "relatedUrls": [
+      "https://livablecrd.ca/scorecard/victoria/mike-harris/",
+      "https://livablecrd.ca/scorecard/victoria/jeremy-caradonna/",
+      "https://livablecrd.ca/scorecard/victoria/matt-dell/",
+      "https://livablecrd.ca/scorecard/victoria/martin-girard/"
+    ]
+  },
+  {
+    "id": "2026-10-05-victoria-food-systems-forum",
+    "headline": "Victoria all-candidate forum on food systems announced for October 5",
+    "publisher": "Victoria Urban Food Table",
+    "canonicalUrl": "https://www.eventbrite.ca/e/victoria-all-candidate-forum-on-food-systems-tickets-1999421815473",
+    "publicationDate": null,
+    "retrievalDate": "2026-09-12",
+    "type": "reporting",
+    "summary": "Victoria Urban Food Table lists an in-person all-candidate forum for October 5, 2026, at Fernwood Community Centre. The listing does not name participating candidates, so no attendance is inferred.",
+    "candidateIds": [],
+    "topics": [
+      "other",
+      "climate_and_public_realm"
+    ],
+    "limitedAccess": false,
+    "relatedUrls": []
+  },
+  {
     "id": "2026-09-11-city-declaration-candidates",
     "headline": "City declares candidates for Victoria mayor and council",
     "publisher": "City of Victoria",
@@ -160,6 +243,225 @@
     ],
     "limitedAccess": false,
     "relatedUrls": []
+  },
+  {
+    "id": "2026-09-09-thompson-platform-update",
+    "headline": "My re-election platform – your ideas are welcome, as always",
+    "publisher": "Dave Thompson campaign",
+    "canonicalUrl": "https://davethompsonvictoria.ca/my-re-election-platform-your-ideas-are-welcome-as-always/",
+    "publicationDate": "2026-09-09",
+    "retrievalDate": "2026-09-12",
+    "type": "campaign_release",
+    "summary": "Dave Thompson says his developing re-election platform reflects feedback from residents and business owners. Preliminary priorities include housing variety, homelessness and mental-health supports, safer streets, climate action and trees, a vibrant local economy, and responsible, evidence-based governance.",
+    "candidateIds": [
+      "dave-thompson"
+    ],
+    "topics": [
+      "housing",
+      "homelessness_and_health",
+      "public_safety",
+      "climate_and_public_realm",
+      "downtown_and_local_economy",
+      "governance_and_amalgamation"
+    ],
+    "limitedAccess": false,
+    "relatedUrls": [
+      "https://davethompsonvictoria.ca/"
+    ]
+  },
+  {
+    "id": "2026-09-09-garcia-public-safety-plan",
+    "headline": "A Practical Plan to Restore Public Safety",
+    "publisher": "Jerry Garcia campaign",
+    "canonicalUrl": "https://jerryforvictoria.ca/articles/__trashed/",
+    "publicationDate": "2026-09-09",
+    "retrievalDate": "2026-09-12",
+    "type": "campaign_release",
+    "summary": "Jerry Garcia outlined a public-safety plan combining visible safety resources, focused enforcement, cleaner public spaces, coordinated responses, access to treatment and supportive housing, business support, prevention, and public performance reporting.",
+    "candidateIds": [
+      "jerry-garcia"
+    ],
+    "topics": [
+      "public_safety",
+      "homelessness_and_health",
+      "downtown_and_local_economy"
+    ],
+    "limitedAccess": false,
+    "relatedUrls": [
+      "https://jerryforvictoria.ca/"
+    ]
+  },
+  {
+    "id": "2026-09-09-girard-harris-commentary",
+    "headline": "Mike Harris for mayor??? God help us!!!",
+    "publisher": "Martin Girard campaign",
+    "canonicalUrl": "https://martingirardforvictoriacouncil.ca/2026/09/09/mike-harris-for-mayor-god-help-us/",
+    "publicationDate": "2026-09-09",
+    "retrievalDate": "2026-09-12",
+    "type": "opinion",
+    "summary": "Martin Girard published political commentary criticizing mayoral candidate Mike Harris. The entry is labelled opinion and does not treat its allegations as independently verified facts.",
+    "candidateIds": [
+      "martin-girard",
+      "mike-harris"
+    ],
+    "topics": [
+      "public_safety",
+      "governance_and_amalgamation"
+    ],
+    "limitedAccess": false,
+    "relatedUrls": [
+      "https://martingirardforvictoriacouncil.ca/"
+    ]
+  },
+  {
+    "id": "2026-09-08-girard-pandora-stories",
+    "headline": "Stories from Pandora Avenue",
+    "publisher": "Martin Girard campaign",
+    "canonicalUrl": "https://martingirardforvictoriacouncil.ca/2026/09/08/stories-from-pandora-avenue/",
+    "publicationDate": "2026-09-08",
+    "retrievalDate": "2026-09-12",
+    "type": "opinion",
+    "summary": "Martin Girard published first-person accounts about unhoused residents on Pandora Avenue and argued that enforcement and displacement do not resolve homelessness. This is candidate commentary.",
+    "candidateIds": [
+      "martin-girard"
+    ],
+    "topics": [
+      "homelessness_and_health",
+      "public_safety"
+    ],
+    "limitedAccess": false,
+    "relatedUrls": [
+      "https://martingirardforvictoriacouncil.ca/"
+    ]
+  },
+  {
+    "id": "2026-09-07-girard-pandora-plan",
+    "headline": "My 10-point plan to relieve the pressure on Pandora Avenue",
+    "publisher": "Martin Girard campaign",
+    "canonicalUrl": "https://martingirardforvictoriacouncil.ca/2026/09/07/my-10-point-plan-to-relieve-the-pressure-on-pandora-avenue/",
+    "publicationDate": "2026-09-07",
+    "retrievalDate": "2026-09-12",
+    "type": "campaign_release",
+    "summary": "Martin Girard published a ten-point proposal for Pandora Avenue that emphasizes outreach, shelter and washroom access, supportive services, alternatives to displacement, and renewed attention to the needs of unhoused residents.",
+    "candidateIds": [
+      "martin-girard"
+    ],
+    "topics": [
+      "homelessness_and_health",
+      "public_safety",
+      "downtown_and_local_economy"
+    ],
+    "limitedAccess": false,
+    "relatedUrls": [
+      "https://martingirardforvictoriacouncil.ca/"
+    ]
+  },
+  {
+    "id": "2026-09-04-garcia-reconciliation-plan",
+    "headline": "Reconciliation Through Respect, Partnership, and Results",
+    "publisher": "Jerry Garcia campaign",
+    "canonicalUrl": "https://jerryforvictoria.ca/articles/reconciliation-through-respect-partnership-and-results/",
+    "publicationDate": "2026-09-04",
+    "retrievalDate": "2026-09-12",
+    "type": "campaign_release",
+    "summary": "Jerry Garcia published a reconciliation proposal focused on government-to-government relationships with the Songhees and Xwsepsum Nations, Indigenous economic participation, cooperation on shared regional challenges, and public reporting of commitments and results.",
+    "candidateIds": [
+      "jerry-garcia"
+    ],
+    "topics": [
+      "indigenous_relations",
+      "governance_and_amalgamation"
+    ],
+    "limitedAccess": false,
+    "relatedUrls": [
+      "https://jerryforvictoria.ca/"
+    ]
+  },
+  {
+    "id": "2026-09-04-garcia-urban-forest-plan",
+    "headline": "Protecting and Growing Victoria’s Urban Forest",
+    "publisher": "Jerry Garcia campaign",
+    "canonicalUrl": "https://jerryforvictoria.ca/articles/protecting-and-growing-victorias-urban-forest/",
+    "publicationDate": "2026-09-04",
+    "retrievalDate": "2026-09-12",
+    "type": "campaign_release",
+    "summary": "Jerry Garcia proposed protecting mature trees while continuing to build housing, planting in lower-canopy areas, coordinating tree planning with streets and utilities, and publicly measuring canopy outcomes.",
+    "candidateIds": [
+      "jerry-garcia"
+    ],
+    "topics": [
+      "climate_and_public_realm",
+      "housing",
+      "parks"
+    ],
+    "limitedAccess": false,
+    "relatedUrls": [
+      "https://jerryforvictoria.ca/"
+    ]
+  },
+  {
+    "id": "2026-09-04-alto-noise-rules-interview",
+    "headline": "Victoria noise rules, transit strike talks, ferry fairness and Saanich Fair",
+    "publisher": "Ryan & Lisa: The Podcast",
+    "canonicalUrl": "https://podcasts.apple.com/ca/podcast/victoria-noise-rules-transit-strike-talks-ferry-fairness/id1854917334?i=1000787906361",
+    "publicationDate": "2026-09-04",
+    "retrievalDate": "2026-09-12",
+    "type": "interview",
+    "summary": "Marianne Alto discussed the City’s planned noise-bylaw rewrite, including construction-noise hours and the possibility of phasing out leaf blowers, alongside regional transportation and ferry issues.",
+    "candidateIds": [
+      "marianne-alto"
+    ],
+    "topics": [
+      "governance_and_amalgamation",
+      "climate_and_public_realm",
+      "transportation"
+    ],
+    "limitedAccess": false,
+    "relatedUrls": [
+      "https://mariannealto.ca/"
+    ]
+  },
+  {
+    "id": "2026-09-03-girard-bio",
+    "headline": "Martin Girard shares a personal campaign biography",
+    "publisher": "Martin Girard campaign",
+    "canonicalUrl": "https://martingirardforvictoriacouncil.ca/2026/09/03/short-bio/",
+    "publicationDate": "2026-09-03",
+    "retrievalDate": "2026-09-12",
+    "type": "campaign_release",
+    "summary": "Martin Girard published a personal biography describing disability, former homelessness, advocacy work, legal self-representation and his reasons for seeking a seat on Victoria council.",
+    "candidateIds": [
+      "martin-girard"
+    ],
+    "topics": [
+      "homelessness_and_health",
+      "other"
+    ],
+    "limitedAccess": false,
+    "relatedUrls": [
+      "https://martingirardforvictoriacouncil.ca/"
+    ]
+  },
+  {
+    "id": "2026-09-02-girard-charter-letter",
+    "headline": "Times Colonist letter: Charter of Rights should not be bypassed",
+    "publisher": "Martin Girard campaign",
+    "canonicalUrl": "https://martingirardforvictoriacouncil.ca/2026/09/02/times-colonist-letter-charter-of-rights-should-not-be-bypassed/",
+    "publicationDate": "2026-09-02",
+    "retrievalDate": "2026-09-12",
+    "type": "opinion",
+    "summary": "Martin Girard published a candidate-authored response arguing that Charter protections should not be bypassed in addressing homelessness. This is recorded as candidate commentary, not independent reporting.",
+    "candidateIds": [
+      "martin-girard"
+    ],
+    "topics": [
+      "homelessness_and_health",
+      "governance_and_amalgamation"
+    ],
+    "limitedAccess": false,
+    "relatedUrls": [
+      "https://martingirardforvictoriacouncil.ca/"
+    ]
   },
   {
     "id": "2026-09-01-mcguigan-campaign",
@@ -477,6 +779,28 @@
     "relatedUrls": []
   },
   {
+    "id": "2026-06-13-alto-nonpartisan-hacks-interview",
+    "headline": "Municipal Courage with Victoria Mayor Marianne Alto",
+    "publisher": "Nonpartisan Hacks",
+    "canonicalUrl": "https://podfollow.com/nonpartisan-hacks/episode/6da4ff322dc68a379eb36017df58b50f156cbe49/view",
+    "publicationDate": "2026-06-13",
+    "retrievalDate": "2026-09-12",
+    "type": "interview",
+    "summary": "In an interview, Marianne Alto discussed housing pressure, homelessness, mental health and addiction, shelter and transitional-housing spaces, the City’s Community Safety and Wellbeing department, and municipal support for nonprofit services.",
+    "candidateIds": [
+      "marianne-alto"
+    ],
+    "topics": [
+      "housing",
+      "homelessness_and_health",
+      "public_safety"
+    ],
+    "limitedAccess": false,
+    "relatedUrls": [
+      "https://mariannealto.ca/"
+    ]
+  },
+  {
     "id": "2026-05-27-rothe-campaign",
     "headline": "Karen Rothe launches campaign for Victoria council",
     "publisher": "Karen Rothe campaign",
@@ -562,6 +886,27 @@
     ],
     "limitedAccess": false,
     "relatedUrls": []
+  },
+  {
+    "id": "2026-02-06-johnston-street-stories-profile",
+    "headline": "David Arthur Johnston",
+    "publisher": "Street Stories Victoria",
+    "canonicalUrl": "https://streetstoriesvictoria.ca/2026/02/06/david-arthur-johnston/",
+    "publicationDate": "2026-02-06",
+    "retrievalDate": "2026-09-12",
+    "type": "reporting",
+    "summary": "Street Stories published a background profile of David Johnston covering his public presence, authorship of The Right to Sleep, involvement in camping-bylaw litigation and broader views. It is background coverage, not proof of a 2026 campaign position.",
+    "candidateIds": [
+      "david-johnston"
+    ],
+    "topics": [
+      "homelessness_and_health",
+      "governance_and_amalgamation"
+    ],
+    "limitedAccess": false,
+    "relatedUrls": [
+      "https://www.victoria.ca/media/file/declaration-candidates-2026"
+    ]
   },
   {
     "id": "2025-12-31-dell-campaign",

@@ -48,6 +48,89 @@
     "sourceUrl": "https://localelections.ca/election_candidates/142_2026_candidates.html"
   },
   {
+    "id": "2026-09-12-systematic-news-audit",
+    "date": "2026-09-12",
+    "type": "coverage_added",
+    "summary": "A candidate-by-candidate audit added dated coverage and candidate-stated updates for Dave Thompson, Jerry Garcia, Martin Girard, Marianne Alto and David Johnston, while preserving clear labels for campaign commentary and background reporting.",
+    "candidateIds": [
+      "dave-thompson",
+      "jerry-garcia",
+      "martin-girard",
+      "marianne-alto",
+      "david-johnston"
+    ],
+    "newsIds": [
+      "2026-09-09-thompson-platform-update",
+      "2026-09-09-garcia-public-safety-plan",
+      "2026-09-04-garcia-urban-forest-plan",
+      "2026-09-04-garcia-reconciliation-plan",
+      "2026-09-09-girard-harris-commentary",
+      "2026-09-08-girard-pandora-stories",
+      "2026-09-07-girard-pandora-plan",
+      "2026-09-03-girard-bio",
+      "2026-09-02-girard-charter-letter",
+      "2026-09-04-alto-noise-rules-interview",
+      "2026-06-13-alto-nonpartisan-hacks-interview",
+      "2026-02-06-johnston-street-stories-profile"
+    ],
+    "sourceUrl": "https://davethompsonvictoria.ca/my-re-election-platform-your-ideas-are-welcome-as-always/"
+  },
+  {
+    "id": "2026-09-12-finance-registration-layer-added",
+    "date": "2026-09-12",
+    "type": "coverage_added",
+    "summary": "The monitor added Elections BC’s registered-candidates finance snapshot as a secondary verification layer and explicitly retained the City declaration as the authority for official nomination status.",
+    "candidateIds": [
+      "marianne-alto",
+      "lyall-atkinson",
+      "david-johnston",
+      "wendy-bowkett",
+      "jeremy-caradonna",
+      "melissa-cseszko",
+      "matt-dell",
+      "shona-dion",
+      "jerry-garcia",
+      "marg-gardiner",
+      "martin-girard",
+      "stephen-hammond",
+      "karen-rothe",
+      "dave-thompson"
+    ],
+    "newsIds": [
+      "2026-09-12-elections-bc-registered-candidates"
+    ],
+    "sourceUrl": "https://elections.bc.ca/docs/lecfa/Registered-Candidates-LEGE-2026-10-17.pdf"
+  },
+  {
+    "id": "2026-09-12-livable-scorecard-added",
+    "date": "2026-09-12",
+    "type": "coverage_added",
+    "summary": "A third-party Livable CRD questionnaire snapshot was added with an explicit note that conflicting individual-page responses still need rechecking.",
+    "candidateIds": [
+      "mike-harris",
+      "jeremy-caradonna",
+      "matt-dell",
+      "martin-girard",
+      "bella-lee",
+      "jack-sandor"
+    ],
+    "newsIds": [
+      "2026-09-12-livable-crd-questionnaire-scorecard"
+    ],
+    "sourceUrl": "https://livablecrd.ca/scorecard/victoria/"
+  },
+  {
+    "id": "2026-09-12-food-forum-added",
+    "date": "2026-09-12",
+    "type": "coverage_added",
+    "summary": "An upcoming Victoria all-candidate food-systems forum was added as an event lead without attributing attendance to any candidate.",
+    "candidateIds": [],
+    "newsIds": [
+      "2026-10-05-victoria-food-systems-forum"
+    ],
+    "sourceUrl": "https://www.eventbrite.ca/e/victoria-all-candidate-forum-on-food-systems-tickets-1999421815473"
+  },
+  {
     "id": "2026-09-11-official-candidates-declared",
     "date": "2026-09-11",
     "type": "status_change",

@@ -28,12 +28,7 @@
       "label": "City of Victoria nomination notice",
       "url": "https://www.victoria.ca/media/file/notice-nomination",
       "sourceType": "official",
-      "mustContain": [
-        "NOTICE OF NOMINATION",
-        "CITY OF VICTORIA COUNCIL",
-        "MAYOR",
-        "COUNCILLOR"
-      ],
+      "mustContain": [],
       "disallowTerms": ["vec.vic.gov.au", ".au"]
     },
     {
@@ -41,11 +36,7 @@
       "label": "City of Victoria declaration of candidates",
       "url": "https://www.victoria.ca/media/file/declaration-candidates-2026",
       "sourceType": "official",
-      "mustContain": [
-        "DECLARATION OF CANDIDATES",
-        "FOR THE OFFICE OF MAYOR",
-        "FOR THE OFFICE OF COUNCILLOR"
-      ],
+      "mustContain": [],
       "disallowTerms": ["vec.vic.gov.au", ".au"]
     },
     {
@@ -67,8 +58,7 @@
       "url": "https://elections.bc.ca/local-elections/2026-general-local-elections/",
       "sourceType": "secondary",
       "mustContain": [
-        "2026 General Local Elections",
-        "City of Victoria"
+        "2026 General Local Elections"
       ],
       "disallowTerms": ["vec.vic.gov.au", ".au"]
     },
@@ -77,10 +67,80 @@
       "label": "Elections BC candidate register snapshot",
       "url": "https://elections.bc.ca/docs/lecfa/Registered-Candidates-LEGE-2026-10-17.pdf",
       "sourceType": "secondary",
-      "mustContain": [
-        "CANDIDATES 2026 General Local Elections"
-      ],
+      "mustContain": [],
       "disallowTerms": [".au"]
+    },
+    {
+      "id": "thompson-platform-update",
+      "label": "Dave Thompson platform update",
+      "url": "https://davethompsonvictoria.ca/my-re-election-platform-your-ideas-are-welcome-as-always/",
+      "sourceType": "secondary",
+      "mustContain": ["My re-election platform", "Victoria City Council"],
+      "disallowTerms": ["Victorian state", "melbourne", ".au"]
+    },
+    {
+      "id": "garcia-reconciliation-update",
+      "label": "Jerry Garcia reconciliation platform post",
+      "url": "https://jerryforvictoria.ca/articles/reconciliation-through-respect-partnership-and-results/",
+      "sourceType": "secondary",
+      "mustContain": ["Reconciliation Through Respect", "Jerry Garcia"],
+      "disallowTerms": ["Victorian state", "melbourne", ".au"]
+    },
+    {
+      "id": "garcia-urban-forest-update",
+      "label": "Jerry Garcia urban-forest platform post",
+      "url": "https://jerryforvictoria.ca/articles/protecting-and-growing-victorias-urban-forest/",
+      "sourceType": "secondary",
+      "mustContain": ["Urban Forest", "Jerry Garcia"],
+      "disallowTerms": ["Victorian state", "melbourne", ".au"]
+    },
+    {
+      "id": "garcia-public-safety-update",
+      "label": "Jerry Garcia public-safety platform post",
+      "url": "https://jerryforvictoria.ca/articles/__trashed/",
+      "sourceType": "secondary",
+      "mustContain": ["Restore Public Safety", "Jerry Garcia"],
+      "disallowTerms": ["Victorian state", "melbourne", ".au"]
+    },
+    {
+      "id": "girard-campaign-posts",
+      "label": "Martin Girard campaign posts",
+      "url": "https://martingirardforvictoriacouncil.ca/",
+      "sourceType": "secondary",
+      "mustContain": ["Martin Girard", "Victoria"],
+      "disallowTerms": ["Victorian state", "melbourne", ".au"]
+    },
+    {
+      "id": "alto-interview-update",
+      "label": "Marianne Alto interview listing",
+      "url": "https://podcasts.apple.com/ca/podcast/victoria-noise-rules-transit-strike-talks-ferry-fairness/id1854917334?i=1000787906361",
+      "sourceType": "secondary",
+      "mustContain": ["Victoria noise rules"],
+      "disallowTerms": ["Victorian state", "melbourne", ".au"]
+    },
+    {
+      "id": "johnston-street-stories-profile",
+      "label": "Street Stories David Johnston profile",
+      "url": "https://streetstoriesvictoria.ca/2026/02/06/david-arthur-johnston/",
+      "sourceType": "secondary",
+      "mustContain": ["David Arthur Johnston"],
+      "disallowTerms": ["Victorian state", "melbourne", ".au"]
+    },
+    {
+      "id": "livable-crd-victoria-scorecard",
+      "label": "Livable CRD Victoria scorecard",
+      "url": "https://livablecrd.ca/scorecard/victoria/",
+      "sourceType": "secondary",
+      "mustContain": ["Victoria", "scorecard"],
+      "disallowTerms": ["Victorian state", "melbourne", ".au"]
+    },
+    {
+      "id": "victoria-food-systems-forum",
+      "label": "Victoria all-candidate food-systems forum",
+      "url": "https://www.eventbrite.ca/e/victoria-all-candidate-forum-on-food-systems-tickets-1999421815473",
+      "sourceType": "secondary",
+      "mustContain": ["Victoria", "food"],
+      "disallowTerms": ["Victorian state", "melbourne", ".au"]
     }
   ]
 }

@@ -93,7 +93,7 @@
       "2026-09-01-mcguigan-campaign",
       "2026-09-01-ctv-candidate-field"
     ],
-    "lastVerified": "2026-09-12T08:21:40-07:00",
+    "lastVerified": "2026-09-12T11:43:03-07:00",
     "needsReview": false,
     "needsReviewExplanation": null,
     "manualNotes": ""
@@ -140,7 +140,7 @@
       "2026-09-11-city-declaration-candidates",
       "2026-09-11-civicinfo-victoria-candidates"
     ],
-    "lastVerified": "2026-09-12T08:21:40-07:00",
+    "lastVerified": "2026-09-12T11:43:03-07:00",
     "needsReview": false,
     "needsReviewExplanation": null,
     "manualNotes": ""
@@ -185,7 +185,7 @@
       "2026-09-11-city-declaration-candidates",
       "2026-09-11-civicinfo-victoria-candidates"
     ],
-    "lastVerified": "2026-09-12T08:21:40-07:00",
+    "lastVerified": "2026-09-12T11:43:03-07:00",
     "needsReview": false,
     "needsReviewExplanation": null,
     "manualNotes": ""
@@ -229,10 +229,12 @@
     },
     "platform": [],
     "recentNewsIds": [
+      "2026-02-06-johnston-street-stories-profile",
+      "2026-09-12-elections-bc-registered-candidates",
       "2026-09-11-city-declaration-candidates",
       "2026-09-11-civicinfo-victoria-candidates"
     ],
-    "lastVerified": "2026-09-12T08:21:40-07:00",
+    "lastVerified": "2026-09-12T11:43:03-07:00",
     "needsReview": false,
     "needsReviewExplanation": null,
     "manualNotes": ""
@@ -268,7 +270,7 @@
       "2026-09-11-city-declaration-candidates",
       "2026-09-11-civicinfo-victoria-candidates"
     ],
-    "lastVerified": "2026-09-12T08:21:40-07:00",
+    "lastVerified": "2026-09-12T11:43:03-07:00",
     "needsReview": false,
     "needsReviewExplanation": null,
     "manualNotes": ""
@@ -338,11 +340,12 @@
       }
     ],
     "recentNewsIds": [
+      "2026-09-12-elections-bc-registered-candidates",
       "2026-09-12-lyall-atkinson-campaign",
       "2026-09-11-city-declaration-candidates",
       "2026-09-11-civicinfo-victoria-candidates"
     ],
-    "lastVerified": "2026-09-12T08:21:40-07:00",
+    "lastVerified": "2026-09-12T11:43:03-07:00",
     "needsReview": false,
     "needsReviewExplanation": null,
     "manualNotes": ""
@@ -409,15 +412,26 @@
         "sourceUrl": "https://www.ctvnews.ca/vancouver/vancouver-island/article/victoria-mayor-and-council-race-candidates-make-their-cases-ahead-of-2026-election/",
         "sourceType": "independent_reporting",
         "verifiedDate": "2026-09-01"
+      },
+      {
+        "id": "alto-noise-bylaw-2026-09",
+        "topic": "other",
+        "summary": "She discussed a planned noise-bylaw rewrite, including construction-noise hours and a possible phase-out of leaf blowers.",
+        "sourceUrl": "https://podcasts.apple.com/ca/podcast/victoria-noise-rules-transit-strike-talks-ferry-fairness/id1854917334?i=1000787906361",
+        "sourceType": "interview",
+        "verifiedDate": "2026-09-04"
       }
     ],
     "recentNewsIds": [
+      "2026-09-04-alto-noise-rules-interview",
+      "2026-06-13-alto-nonpartisan-hacks-interview",
+      "2026-09-12-elections-bc-registered-candidates",
       "2026-09-11-city-declaration-candidates",
       "2026-09-11-civicinfo-victoria-candidates",
       "2026-09-01-ctv-candidate-field",
       "2026-05-20-alto-re-election-launch"
     ],
-    "lastVerified": "2026-09-12T08:21:40-07:00",
+    "lastVerified": "2026-09-12T11:43:03-07:00",
     "needsReview": false,
     "needsReviewExplanation": null,
     "manualNotes": ""
@@ -514,7 +528,7 @@
       "2026-09-11-city-declaration-candidates",
       "2026-09-11-civicinfo-victoria-candidates"
     ],
-    "lastVerified": "2026-09-12T08:21:40-07:00",
+    "lastVerified": "2026-09-12T11:43:03-07:00",
     "needsReview": false,
     "needsReviewExplanation": null,
     "manualNotes": ""
@@ -551,7 +565,7 @@
     },
     "platform": [],
     "recentNewsIds": [],
-    "lastVerified": "2026-09-12T08:21:40-07:00",
+    "lastVerified": "2026-09-12T11:43:03-07:00",
     "needsReview": false,
     "needsReviewExplanation": null,
     "manualNotes": ""
@@ -617,7 +631,7 @@
       "2026-09-11-civicinfo-victoria-candidates",
       "2026-06-25-mcinnis-campaign"
     ],
-    "lastVerified": "2026-09-12T08:21:40-07:00",
+    "lastVerified": "2026-09-12T11:43:03-07:00",
     "needsReview": false,
     "needsReviewExplanation": null,
     "manualNotes": ""
@@ -683,7 +697,7 @@
       "2026-09-11-civicinfo-victoria-candidates",
       "2026-06-30-lee-sandor-launch"
     ],
-    "lastVerified": "2026-09-12T08:21:40-07:00",
+    "lastVerified": "2026-09-12T11:43:03-07:00",
     "needsReview": false,
     "needsReviewExplanation": null,
     "manualNotes": ""
@@ -742,15 +756,33 @@
         "sourceUrl": "https://davethompsonvictoria.ca/",
         "sourceType": "candidate_website",
         "verifiedDate": "2026-08-24"
+      },
+      {
+        "id": "thompson-feedback-platform-2026",
+        "topic": "governance_and_amalgamation",
+        "summary": "He says his developing platform is being shaped by resident and business-owner feedback, public coffee chats, community events and regular meetings with local stakeholders.",
+        "sourceUrl": "https://davethompsonvictoria.ca/my-re-election-platform-your-ideas-are-welcome-as-always/",
+        "sourceType": "candidate_website",
+        "verifiedDate": "2026-09-09"
+      },
+      {
+        "id": "thompson-safe-climate-city-2026",
+        "topic": "public_safety",
+        "summary": "His September platform update links safer streets with climate action, more trees, a clean environment and a vibrant local economy.",
+        "sourceUrl": "https://davethompsonvictoria.ca/my-re-election-platform-your-ideas-are-welcome-as-always/",
+        "sourceType": "candidate_website",
+        "verifiedDate": "2026-09-09"
       }
     ],
     "recentNewsIds": [
+      "2026-09-09-thompson-platform-update",
+      "2026-09-12-elections-bc-registered-candidates",
       "2026-09-11-city-declaration-candidates",
       "2026-09-11-civicinfo-victoria-candidates",
       "2026-09-01-ctv-candidate-field",
       "2026-08-23-thompson-campaign"
     ],
-    "lastVerified": "2026-09-12T08:21:40-07:00",
+    "lastVerified": "2026-09-12T11:43:03-07:00",
     "needsReview": false,
     "needsReviewExplanation": null,
     "manualNotes": ""
@@ -787,7 +819,7 @@
       "2026-09-11-city-declaration-candidates",
       "2026-09-11-civicinfo-victoria-candidates"
     ],
-    "lastVerified": "2026-09-12T08:21:40-07:00",
+    "lastVerified": "2026-09-12T11:43:03-07:00",
     "needsReview": false,
     "needsReviewExplanation": null,
     "manualNotes": ""
@@ -853,7 +885,7 @@
       "2026-09-11-civicinfo-victoria-candidates",
       "2026-06-30-lee-sandor-launch"
     ],
-    "lastVerified": "2026-09-12T08:21:40-07:00",
+    "lastVerified": "2026-09-12T11:43:03-07:00",
     "needsReview": false,
     "needsReviewExplanation": null,
     "manualNotes": ""
@@ -898,7 +930,7 @@
       "2026-09-11-city-declaration-candidates",
       "2026-09-11-civicinfo-victoria-candidates"
     ],
-    "lastVerified": "2026-09-12T08:21:40-07:00",
+    "lastVerified": "2026-09-12T11:43:03-07:00",
     "needsReview": false,
     "needsReviewExplanation": null,
     "manualNotes": ""
@@ -948,7 +980,7 @@
       "2026-09-11-city-declaration-candidates",
       "2026-09-11-civicinfo-victoria-candidates"
     ],
-    "lastVerified": "2026-09-12T08:21:40-07:00",
+    "lastVerified": "2026-09-12T11:43:03-07:00",
     "needsReview": false,
     "needsReviewExplanation": null,
     "manualNotes": ""
@@ -1023,12 +1055,13 @@
       }
     ],
     "recentNewsIds": [
+      "2026-09-12-elections-bc-registered-candidates",
       "2026-09-11-city-declaration-candidates",
       "2026-09-11-civicinfo-victoria-candidates",
       "2026-09-01-ctv-candidate-field",
       "2025-12-19-caradonna-re-election"
     ],
-    "lastVerified": "2026-09-12T08:21:40-07:00",
+    "lastVerified": "2026-09-12T11:43:03-07:00",
     "needsReview": false,
     "needsReviewExplanation": null,
     "manualNotes": ""
@@ -1095,15 +1128,43 @@
         "sourceUrl": "https://www.ctvnews.ca/vancouver/vancouver-island/article/victoria-mayor-and-council-race-candidates-make-their-cases-ahead-of-2026-election/",
         "sourceType": "independent_reporting",
         "verifiedDate": "2026-09-01"
+      },
+      {
+        "id": "garcia-reconciliation-2026-09",
+        "topic": "indigenous_relations",
+        "summary": "He proposes regular government-to-government dialogue, Indigenous participation in procurement and economic development, cooperation on shared challenges, and public reporting of reconciliation commitments.",
+        "sourceUrl": "https://jerryforvictoria.ca/articles/reconciliation-through-respect-partnership-and-results/",
+        "sourceType": "candidate_website",
+        "verifiedDate": "2026-09-04"
+      },
+      {
+        "id": "garcia-urban-forest-2026-09",
+        "topic": "climate_and_public_realm",
+        "summary": "He supports protecting mature trees, planting in lower-canopy areas, coordinating tree planning with development and infrastructure, and measuring canopy outcomes publicly.",
+        "sourceUrl": "https://jerryforvictoria.ca/articles/protecting-and-growing-victorias-urban-forest/",
+        "sourceType": "candidate_website",
+        "verifiedDate": "2026-09-04"
+      },
+      {
+        "id": "garcia-public-safety-2026-09",
+        "topic": "public_safety",
+        "summary": "He proposes visible safety resources, focused enforcement, cleaner public spaces, coordinated response roles, access to care and supportive housing, business support, prevention and public reporting of results.",
+        "sourceUrl": "https://jerryforvictoria.ca/articles/__trashed/",
+        "sourceType": "candidate_website",
+        "verifiedDate": "2026-09-09"
       }
     ],
     "recentNewsIds": [
+      "2026-09-09-garcia-public-safety-plan",
+      "2026-09-04-garcia-urban-forest-plan",
+      "2026-09-04-garcia-reconciliation-plan",
+      "2026-09-12-elections-bc-registered-candidates",
       "2026-09-11-city-declaration-candidates",
       "2026-09-11-civicinfo-victoria-candidates",
       "2026-09-01-ctv-candidate-field",
       "2026-07-19-garcia-campaign"
     ],
-    "lastVerified": "2026-09-12T08:21:40-07:00",
+    "lastVerified": "2026-09-12T11:43:03-07:00",
     "needsReview": false,
     "needsReviewExplanation": null,
     "manualNotes": ""
@@ -1165,11 +1226,12 @@
       }
     ],
     "recentNewsIds": [
+      "2026-09-12-elections-bc-registered-candidates",
       "2026-09-11-city-declaration-candidates",
       "2026-09-11-civicinfo-victoria-candidates",
       "2026-05-27-rothe-campaign"
     ],
-    "lastVerified": "2026-09-12T08:21:40-07:00",
+    "lastVerified": "2026-09-12T11:43:03-07:00",
     "needsReview": false,
     "needsReviewExplanation": null,
     "manualNotes": ""
@@ -1251,7 +1313,7 @@
       "2026-09-01-ctv-candidate-field",
       "2026-08-24-loughton-campaign"
     ],
-    "lastVerified": "2026-09-12T08:21:40-07:00",
+    "lastVerified": "2026-09-12T11:43:03-07:00",
     "needsReview": false,
     "needsReviewExplanation": null,
     "manualNotes": ""
@@ -1321,12 +1383,13 @@
       }
     ],
     "recentNewsIds": [
+      "2026-09-12-elections-bc-registered-candidates",
       "2026-09-11-city-declaration-candidates",
       "2026-09-11-civicinfo-victoria-candidates",
       "2026-09-01-ctv-candidate-field",
       "2026-08-24-gardiner-campaign"
     ],
-    "lastVerified": "2026-09-12T08:21:40-07:00",
+    "lastVerified": "2026-09-12T11:43:03-07:00",
     "needsReview": false,
     "needsReviewExplanation": null,
     "manualNotes": ""
@@ -1385,14 +1448,36 @@
         "sourceUrl": "https://martingirardforvictoriacouncil.ca/",
         "sourceType": "candidate_website",
         "verifiedDate": "2026-08-24"
+      },
+      {
+        "id": "girard-pandora-plan-2026-09",
+        "topic": "homelessness_and_health",
+        "summary": "He proposes outreach, shelter and washroom access, supportive services and alternatives to displacement as part of a ten-point plan for pressure on Pandora Avenue.",
+        "sourceUrl": "https://martingirardforvictoriacouncil.ca/2026/09/07/my-10-point-plan-to-relieve-the-pressure-on-pandora-avenue/",
+        "sourceType": "candidate_website",
+        "verifiedDate": "2026-09-07"
+      },
+      {
+        "id": "girard-charter-homelessness-2026-09",
+        "topic": "governance_and_amalgamation",
+        "summary": "He argues that responses to homelessness should respect Charter protections and human rights.",
+        "sourceUrl": "https://martingirardforvictoriacouncil.ca/2026/09/02/times-colonist-letter-charter-of-rights-should-not-be-bypassed/",
+        "sourceType": "candidate_website",
+        "verifiedDate": "2026-09-02"
       }
     ],
     "recentNewsIds": [
+      "2026-09-09-girard-harris-commentary",
+      "2026-09-08-girard-pandora-stories",
+      "2026-09-07-girard-pandora-plan",
+      "2026-09-03-girard-bio",
+      "2026-09-02-girard-charter-letter",
+      "2026-09-12-elections-bc-registered-candidates",
       "2026-09-11-city-declaration-candidates",
       "2026-09-11-civicinfo-victoria-candidates",
       "2026-08-24-girard-campaign"
     ],
-    "lastVerified": "2026-09-12T08:21:40-07:00",
+    "lastVerified": "2026-09-12T11:43:03-07:00",
     "needsReview": false,
     "needsReviewExplanation": null,
     "manualNotes": ""
@@ -1454,12 +1539,13 @@
       }
     ],
     "recentNewsIds": [
+      "2026-09-12-elections-bc-registered-candidates",
       "2026-09-11-city-declaration-candidates",
       "2026-09-11-civicinfo-victoria-candidates",
       "2026-09-01-ctv-candidate-field",
       "2025-12-31-dell-campaign"
     ],
-    "lastVerified": "2026-09-12T08:21:40-07:00",
+    "lastVerified": "2026-09-12T11:43:03-07:00",
     "needsReview": false,
     "needsReviewExplanation": null,
     "manualNotes": ""
@@ -1521,11 +1607,12 @@
       }
     ],
     "recentNewsIds": [
+      "2026-09-12-elections-bc-registered-candidates",
       "2026-09-11-city-declaration-candidates",
       "2026-09-11-civicinfo-victoria-candidates",
       "2026-05-12-cseszko-campaign"
     ],
-    "lastVerified": "2026-09-12T08:21:40-07:00",
+    "lastVerified": "2026-09-12T11:43:03-07:00",
     "needsReview": false,
     "needsReviewExplanation": null,
     "manualNotes": ""
@@ -1602,7 +1689,7 @@
       "2026-09-11-civicinfo-victoria-candidates",
       "2026-08-17-victoria-for-all-launch"
     ],
-    "lastVerified": "2026-09-12T08:21:40-07:00",
+    "lastVerified": "2026-09-12T11:43:03-07:00",
     "needsReview": false,
     "needsReviewExplanation": null,
     "manualNotes": ""
@@ -1664,11 +1751,12 @@
       }
     ],
     "recentNewsIds": [
+      "2026-09-12-elections-bc-registered-candidates",
       "2026-09-11-city-declaration-candidates",
       "2026-09-11-civicinfo-victoria-candidates",
       "2026-08-24-dion-campaign"
     ],
-    "lastVerified": "2026-09-12T08:21:40-07:00",
+    "lastVerified": "2026-09-12T11:43:03-07:00",
     "needsReview": false,
     "needsReviewExplanation": null,
     "manualNotes": ""
@@ -1738,12 +1826,13 @@
       }
     ],
     "recentNewsIds": [
+      "2026-09-12-elections-bc-registered-candidates",
       "2026-09-11-city-declaration-candidates",
       "2026-09-11-civicinfo-victoria-candidates",
       "2026-09-01-ctv-candidate-field",
       "2026-07-06-hammond-campaign"
     ],
-    "lastVerified": "2026-09-12T08:21:40-07:00",
+    "lastVerified": "2026-09-12T11:43:03-07:00",
     "needsReview": false,
     "needsReviewExplanation": null,
     "manualNotes": ""
@@ -1795,7 +1884,7 @@
       "2026-09-11-city-declaration-candidates",
       "2026-09-11-civicinfo-victoria-candidates"
     ],
-    "lastVerified": "2026-09-12T08:21:40-07:00",
+    "lastVerified": "2026-09-12T11:43:03-07:00",
     "needsReview": false,
     "needsReviewExplanation": null,
     "manualNotes": ""
@@ -1874,7 +1963,7 @@
       "2026-09-01-ctv-candidate-field",
       "2026-08-17-victoria-for-all-launch"
     ],
-    "lastVerified": "2026-09-12T08:21:40-07:00",
+    "lastVerified": "2026-09-12T11:43:03-07:00",
     "needsReview": false,
     "needsReviewExplanation": null,
     "manualNotes": ""
@@ -1936,11 +2025,12 @@
       }
     ],
     "recentNewsIds": [
+      "2026-09-12-elections-bc-registered-candidates",
       "2026-09-11-city-declaration-candidates",
       "2026-09-11-civicinfo-victoria-candidates",
       "2026-05-15-bowkett-campaign"
     ],
-    "lastVerified": "2026-09-12T08:21:40-07:00",
+    "lastVerified": "2026-09-12T11:43:03-07:00",
     "needsReview": false,
     "needsReviewExplanation": null,
     "manualNotes": ""
@@ -1971,7 +2061,7 @@
     },
     "platform": [],
     "recentNewsIds": [],
-    "lastVerified": "2026-09-12T08:21:40-07:00",
+    "lastVerified": "2026-09-12T11:43:03-07:00",
     "needsReview": false,
     "needsReviewExplanation": null,
     "manualNotes": ""
