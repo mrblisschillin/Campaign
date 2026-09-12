@@ -1,17 +1,165 @@
 [
   {
-    "id": "2026-09-01-ctv-candidate-field",
-    "headline": "Victoria mayor and council candidates make their cases as nominations open",
-    "publisher": "CTV News",
-    "canonicalUrl": "https://www.ctvnews.ca/vancouver/vancouver-island/article/victoria-mayor-and-council-race-candidates-make-their-cases-ahead-of-2026-election/",
-    "publicationDate": "2026-09-01",
-    "retrievalDate": "2026-09-01",
-    "type": "reporting",
-    "summary": "CTV reports detailed campaign priorities from Marianne Alto, Bruce McGuigan and eight council candidates, covering housing, homelessness, safety, taxes, public accountability, climate resilience, regional services, transportation and the downtown economy.",
-    "candidateIds": ["marianne-alto", "bruce-mcguigan", "jeremy-caradonna", "matt-dell", "jerry-garcia", "marg-gardiner", "stephen-hammond", "susan-kim", "krista-loughton", "dave-thompson"],
-    "topics": ["housing", "homelessness_and_health", "public_safety", "transportation", "taxes_and_budget", "downtown_and_local_economy", "climate_and_public_realm", "governance_and_amalgamation", "arts_and_culture"],
+    "id": "2026-09-12-lyall-atkinson-campaign",
+    "headline": "Lyall Atkinson launches mayoral campaign site",
+    "publisher": "Lyall Atkinson campaign",
+    "canonicalUrl": "https://voteforlyallatkinson.ca/",
+    "publicationDate": null,
+    "retrievalDate": "2026-09-12",
+    "type": "campaign_release",
+    "summary": "Atkinson’s campaign site frames his mayoral run around financial accountability, transparency, fair process, downtown recovery, public safety, taxpayer protection and better consultation.",
+    "candidateIds": [
+      "lyall-atkinson"
+    ],
+    "topics": [
+      "taxes_and_budget",
+      "governance_and_amalgamation",
+      "public_safety",
+      "downtown_and_local_economy"
+    ],
     "limitedAccess": false,
-    "relatedUrls": ["https://www.victoria.ca/city-government/news/nomination-period-opens-tomorrow-victoria-election-2026"]
+    "relatedUrls": [
+      "https://localelections.ca/election_candidates/142_2026_candidates.html"
+    ]
+  },
+  {
+    "id": "2026-09-12-mike-harris-campaign",
+    "headline": "Mike Harris campaign site sets out mayoral priorities",
+    "publisher": "Mike Harris campaign",
+    "canonicalUrl": "https://mike4victoria.ca/",
+    "publicationDate": null,
+    "retrievalDate": "2026-09-12",
+    "type": "campaign_release",
+    "summary": "Harris’s campaign site describes a mayoral platform focused on public safety, taxpayer value, housing permit timelines, downtown conditions, neighbourhood listening and an independent review of City Hall.",
+    "candidateIds": [
+      "mike-harris"
+    ],
+    "topics": [
+      "public_safety",
+      "taxes_and_budget",
+      "housing",
+      "downtown_and_local_economy",
+      "governance_and_amalgamation"
+    ],
+    "limitedAccess": false,
+    "relatedUrls": [
+      "https://localelections.ca/election_candidates/142_2026_candidates.html"
+    ]
+  },
+  {
+    "id": "2026-09-11-city-declaration-candidates",
+    "headline": "City declares candidates for Victoria mayor and council",
+    "publisher": "City of Victoria",
+    "canonicalUrl": "https://www.victoria.ca/city-government/news/candidates-declared-2026-local-government-election",
+    "publicationDate": "2026-09-11",
+    "retrievalDate": "2026-09-12",
+    "type": "official_notice",
+    "summary": "The City announced that the Declaration of Candidates for the 2026 local government election is available. The declaration lists eight mayoral candidates and 21 council candidates for the City of Victoria race.",
+    "candidateIds": [
+      "marianne-alto",
+      "lyall-atkinson",
+      "darren-gervais-harrison",
+      "christopher-hanna",
+      "mike-harris",
+      "david-johnston",
+      "bruce-mcguigan",
+      "gregoor-miller",
+      "wendy-bowkett",
+      "jeremy-caradonna",
+      "herb-collins",
+      "melissa-cseszko",
+      "matt-dell",
+      "shona-dion",
+      "steve-filipovic",
+      "jerry-garcia",
+      "marg-gardiner",
+      "peter-rose-gibbs",
+      "martin-girard",
+      "stephen-hammond",
+      "james-harasymow",
+      "jason-heit",
+      "susan-kim",
+      "bella-lee",
+      "krista-loughton",
+      "arthur-mcinnis",
+      "karen-rothe",
+      "jack-sandor",
+      "dave-thompson"
+    ],
+    "topics": [
+      "governance_and_amalgamation"
+    ],
+    "limitedAccess": false,
+    "relatedUrls": [
+      "https://www.victoria.ca/media/file/declaration-candidates-2026",
+      "https://www.victoria.ca/city-government/elections"
+    ]
+  },
+  {
+    "id": "2026-09-11-civicinfo-victoria-candidates",
+    "headline": "CivicInfo posts Victoria candidate list and online campaign links",
+    "publisher": "CivicInfo BC / LocalElections.ca",
+    "canonicalUrl": "https://localelections.ca/election_candidates/142_2026_candidates.html",
+    "publicationDate": "2026-09-11",
+    "retrievalDate": "2026-09-12",
+    "type": "official_notice",
+    "summary": "CivicInfo BC published a Victoria candidate page sourced from local election officials, including candidate names, previous-office status, and contact or online campaign links where candidates consented to display them.",
+    "candidateIds": [
+      "marianne-alto",
+      "lyall-atkinson",
+      "darren-gervais-harrison",
+      "christopher-hanna",
+      "mike-harris",
+      "david-johnston",
+      "bruce-mcguigan",
+      "gregoor-miller",
+      "wendy-bowkett",
+      "jeremy-caradonna",
+      "herb-collins",
+      "melissa-cseszko",
+      "matt-dell",
+      "shona-dion",
+      "steve-filipovic",
+      "jerry-garcia",
+      "marg-gardiner",
+      "peter-rose-gibbs",
+      "martin-girard",
+      "stephen-hammond",
+      "james-harasymow",
+      "jason-heit",
+      "susan-kim",
+      "bella-lee",
+      "krista-loughton",
+      "arthur-mcinnis",
+      "karen-rothe",
+      "jack-sandor",
+      "dave-thompson"
+    ],
+    "topics": [
+      "governance_and_amalgamation"
+    ],
+    "limitedAccess": false,
+    "relatedUrls": [
+      "https://www.victoria.ca/media/file/declaration-candidates-2026"
+    ]
+  },
+  {
+    "id": "2026-09-11-firefighters-election-priorities",
+    "headline": "Victoria firefighters union prepares candidate-endorsement campaign",
+    "publisher": "Victoria Buzz",
+    "canonicalUrl": "https://victoriabuzz.com/2026/09/victoria-firefighters-union-to-endorse-council-candidates-in-upcoming-elections/",
+    "publicationDate": "2026-09-11",
+    "retrievalDate": "2026-09-12",
+    "type": "reporting",
+    "summary": "Victoria Buzz reports that IAFF Local 730 will engage in the municipal election as a third-party advertising sponsor and ask candidates to respond to priorities on emergency response, single-stair egress, violence against first responders and mental-health support.",
+    "candidateIds": [],
+    "topics": [
+      "public_safety",
+      "transportation",
+      "housing"
+    ],
+    "limitedAccess": false,
+    "relatedUrls": []
   },
   {
     "id": "2026-09-01-mcguigan-campaign",
@@ -22,10 +170,58 @@
     "retrievalDate": "2026-09-01",
     "type": "campaign_release",
     "summary": "McGuigan's candidate-owned site confirms his mayoral campaign and sets out positions on homelessness, housing, public safety, accountable government, local economic development, climate resilience and the arts. The page did not expose a publication date.",
-    "candidateIds": ["bruce-mcguigan"],
-    "topics": ["housing", "homelessness_and_health", "public_safety", "taxes_and_budget", "downtown_and_local_economy", "climate_and_public_realm", "governance_and_amalgamation", "arts_and_culture"],
+    "candidateIds": [
+      "bruce-mcguigan"
+    ],
+    "topics": [
+      "housing",
+      "homelessness_and_health",
+      "public_safety",
+      "taxes_and_budget",
+      "downtown_and_local_economy",
+      "climate_and_public_realm",
+      "governance_and_amalgamation",
+      "arts_and_culture"
+    ],
     "limitedAccess": false,
     "relatedUrls": []
+  },
+  {
+    "id": "2026-09-01-ctv-candidate-field",
+    "headline": "Victoria mayor and council candidates make their cases as nominations open",
+    "publisher": "CTV News",
+    "canonicalUrl": "https://www.ctvnews.ca/vancouver/vancouver-island/article/victoria-mayor-and-council-race-candidates-make-their-cases-ahead-of-2026-election/",
+    "publicationDate": "2026-09-01",
+    "retrievalDate": "2026-09-01",
+    "type": "reporting",
+    "summary": "CTV reports detailed campaign priorities from Marianne Alto, Bruce McGuigan and eight council candidates, covering housing, homelessness, safety, taxes, public accountability, climate resilience, regional services, transportation and the downtown economy.",
+    "candidateIds": [
+      "marianne-alto",
+      "bruce-mcguigan",
+      "jeremy-caradonna",
+      "matt-dell",
+      "jerry-garcia",
+      "marg-gardiner",
+      "stephen-hammond",
+      "susan-kim",
+      "krista-loughton",
+      "dave-thompson"
+    ],
+    "topics": [
+      "housing",
+      "homelessness_and_health",
+      "public_safety",
+      "transportation",
+      "taxes_and_budget",
+      "downtown_and_local_economy",
+      "climate_and_public_realm",
+      "governance_and_amalgamation",
+      "arts_and_culture"
+    ],
+    "limitedAccess": false,
+    "relatedUrls": [
+      "https://www.victoria.ca/city-government/news/nomination-period-opens-tomorrow-victoria-election-2026"
+    ]
   },
   {
     "id": "2026-08-31-nominations-open",
@@ -37,9 +233,14 @@
     "type": "official_notice",
     "summary": "The City says nomination packages may be filed from September 1 at 9 a.m. until September 11 at 4 p.m. No Victoria mayoral or council filings appeared in the official sources checked for this update.",
     "candidateIds": [],
-    "topics": ["governance_and_amalgamation"],
+    "topics": [
+      "governance_and_amalgamation"
+    ],
     "limitedAccess": false,
-    "relatedUrls": ["https://www.victoria.ca/city-government/elections", "https://elections.bc.ca/local-elections/candidate-information/"]
+    "relatedUrls": [
+      "https://www.victoria.ca/city-government/elections",
+      "https://elections.bc.ca/local-elections/candidate-information/"
+    ]
   },
   {
     "id": "2026-08-24-city-election-information",
@@ -51,51 +252,33 @@
     "type": "official_notice",
     "summary": "The City's current election page confirms October 17 as general voting day, with nominations accepted September 1–11. No nomination filing or final ballot notice was available at retrieval time.",
     "candidateIds": [],
-    "topics": ["governance_and_amalgamation"],
+    "topics": [
+      "governance_and_amalgamation"
+    ],
     "limitedAccess": false,
-    "relatedUrls": ["https://elections.bc.ca/local-elections/2026-general-local-elections/"]
+    "relatedUrls": [
+      "https://elections.bc.ca/local-elections/2026-general-local-elections/"
+    ]
   },
   {
-    "id": "2026-08-23-thompson-campaign",
-    "headline": "Dave Thompson says he will seek re-election",
-    "publisher": "Dave Thompson campaign",
-    "canonicalUrl": "https://davethompsonvictoria.ca/",
-    "publicationDate": "2026-08-23",
-    "retrievalDate": "2026-08-24",
-    "type": "campaign_release",
-    "summary": "Thompson's refreshed campaign site says he is running again for council. It identifies housing, safer streets, vulnerable residents and climate as developing priorities.",
-    "candidateIds": ["dave-thompson"],
-    "topics": ["housing", "homelessness_and_health", "public_safety", "climate_and_public_realm"],
-    "limitedAccess": false,
-    "relatedUrls": []
-  },
-  {
-    "id": "2026-08-17-victoria-for-all-launch",
-    "headline": "Victoria For All launches council candidates Susan Kim and Peter Rose Gibbs",
-    "publisher": "Victoria Buzz",
-    "canonicalUrl": "https://victoriabuzz.com/2026/08/new-political-slate-victoria-for-all-launches-3-candidates-in-upcoming-local-election/",
-    "publicationDate": "2026-08-17",
-    "retrievalDate": "2026-08-24",
-    "type": "reporting",
-    "summary": "The report covers an August 15 launch naming Kim and Rose Gibbs as Victoria council candidates. It summarizes the group's shared focus on community care, housing, climate and accessible public spaces; its school-board candidate is outside this monitor's scope.",
-    "candidateIds": ["susan-kim", "peter-rose-gibbs"],
-    "topics": ["housing", "homelessness_and_health", "climate_and_public_realm", "parks"],
-    "limitedAccess": false,
-    "relatedUrls": ["https://www.victoriaforall.ca/about"]
-  },
-  {
-    "id": "2026-08-24-dion-campaign",
-    "headline": "Shona Dion publishes council campaign priorities",
-    "publisher": "Shona Dion campaign",
-    "canonicalUrl": "https://www.shonadion4victoria.ca/priorities",
+    "id": "2026-08-24-loughton-campaign",
+    "headline": "Krista Loughton launches Team Loughton 2026 site",
+    "publisher": "Krista Loughton campaign",
+    "canonicalUrl": "https://www.kristaloughton.ca/",
     "publicationDate": null,
     "retrievalDate": "2026-08-24",
     "type": "campaign_release",
-    "summary": "Dion's undated campaign page outlines positions on social and co-operative housing, climate adaptation, bicycle infrastructure, public ownership and worker safety. The item date reflects retrieval, not original publication.",
-    "candidateIds": ["shona-dion"],
-    "topics": ["housing", "transportation", "climate_and_public_realm", "downtown_and_local_economy"],
+    "summary": "Loughton's campaign site asks voters to re-elect her and describes a supportive-housing transition proposal and a walkable 'City of Communities' approach. The page did not expose a publication date.",
+    "candidateIds": [
+      "krista-loughton"
+    ],
+    "topics": [
+      "homelessness_and_health",
+      "housing",
+      "climate_and_public_realm"
+    ],
     "limitedAccess": false,
-    "relatedUrls": ["https://www.shonadion4victoria.ca/my_story"]
+    "relatedUrls": []
   },
   {
     "id": "2026-08-24-gardiner-campaign",
@@ -106,8 +289,16 @@
     "retrievalDate": "2026-08-24",
     "type": "campaign_release",
     "summary": "Gardiner's undated campaign site presents positions on policing, treatment, neighbourhood planning, zero-based budgeting and public consultation. The item date reflects retrieval, not original publication.",
-    "candidateIds": ["marg-gardiner"],
-    "topics": ["public_safety", "homelessness_and_health", "housing", "taxes_and_budget", "governance_and_amalgamation"],
+    "candidateIds": [
+      "marg-gardiner"
+    ],
+    "topics": [
+      "public_safety",
+      "homelessness_and_health",
+      "housing",
+      "taxes_and_budget",
+      "governance_and_amalgamation"
+    ],
     "limitedAccess": false,
     "relatedUrls": []
   },
@@ -120,24 +311,84 @@
     "retrievalDate": "2026-08-24",
     "type": "campaign_release",
     "summary": "Girard's undated campaign site states positions on municipal drug policy, Indigenous rights and selected international human-rights issues. The item date reflects retrieval, not original publication.",
-    "candidateIds": ["martin-girard"],
-    "topics": ["homelessness_and_health", "indigenous_relations", "other"],
+    "candidateIds": [
+      "martin-girard"
+    ],
+    "topics": [
+      "homelessness_and_health",
+      "indigenous_relations",
+      "other"
+    ],
     "limitedAccess": false,
     "relatedUrls": []
   },
   {
-    "id": "2026-08-24-loughton-campaign",
-    "headline": "Krista Loughton launches Team Loughton 2026 site",
-    "publisher": "Krista Loughton campaign",
-    "canonicalUrl": "https://www.kristaloughton.ca/",
+    "id": "2026-08-24-dion-campaign",
+    "headline": "Shona Dion publishes council campaign priorities",
+    "publisher": "Shona Dion campaign",
+    "canonicalUrl": "https://www.shonadion4victoria.ca/priorities",
     "publicationDate": null,
     "retrievalDate": "2026-08-24",
     "type": "campaign_release",
-    "summary": "Loughton's campaign site asks voters to re-elect her and describes a supportive-housing transition proposal and a walkable 'City of Communities' approach. The page did not expose a publication date.",
-    "candidateIds": ["krista-loughton"],
-    "topics": ["homelessness_and_health", "housing", "climate_and_public_realm"],
+    "summary": "Dion's undated campaign page outlines positions on social and co-operative housing, climate adaptation, bicycle infrastructure, public ownership and worker safety. The item date reflects retrieval, not original publication.",
+    "candidateIds": [
+      "shona-dion"
+    ],
+    "topics": [
+      "housing",
+      "transportation",
+      "climate_and_public_realm",
+      "downtown_and_local_economy"
+    ],
+    "limitedAccess": false,
+    "relatedUrls": [
+      "https://www.shonadion4victoria.ca/my_story"
+    ]
+  },
+  {
+    "id": "2026-08-23-thompson-campaign",
+    "headline": "Dave Thompson says he will seek re-election",
+    "publisher": "Dave Thompson campaign",
+    "canonicalUrl": "https://davethompsonvictoria.ca/",
+    "publicationDate": "2026-08-23",
+    "retrievalDate": "2026-08-24",
+    "type": "campaign_release",
+    "summary": "Thompson's refreshed campaign site says he is running again for council. It identifies housing, safer streets, vulnerable residents and climate as developing priorities.",
+    "candidateIds": [
+      "dave-thompson"
+    ],
+    "topics": [
+      "housing",
+      "homelessness_and_health",
+      "public_safety",
+      "climate_and_public_realm"
+    ],
     "limitedAccess": false,
     "relatedUrls": []
+  },
+  {
+    "id": "2026-08-17-victoria-for-all-launch",
+    "headline": "Victoria For All launches council candidates Susan Kim and Peter Rose Gibbs",
+    "publisher": "Victoria Buzz",
+    "canonicalUrl": "https://victoriabuzz.com/2026/08/new-political-slate-victoria-for-all-launches-3-candidates-in-upcoming-local-election/",
+    "publicationDate": "2026-08-17",
+    "retrievalDate": "2026-08-24",
+    "type": "reporting",
+    "summary": "The report covers an August 15 launch naming Kim and Rose Gibbs as Victoria council candidates. It summarizes the group's shared focus on community care, housing, climate and accessible public spaces; its school-board candidate is outside this monitor's scope.",
+    "candidateIds": [
+      "susan-kim",
+      "peter-rose-gibbs"
+    ],
+    "topics": [
+      "housing",
+      "homelessness_and_health",
+      "climate_and_public_realm",
+      "parks"
+    ],
+    "limitedAccess": false,
+    "relatedUrls": [
+      "https://www.victoriaforall.ca/about"
+    ]
   },
   {
     "id": "2026-07-19-garcia-campaign",
@@ -148,8 +399,15 @@
     "retrievalDate": "2026-08-24",
     "type": "campaign_release",
     "summary": "Garcia's campaign announcement identifies economic growth, public safety, homelessness and fiscal responsibility as priorities for a council bid.",
-    "candidateIds": ["jerry-garcia"],
-    "topics": ["downtown_and_local_economy", "public_safety", "homelessness_and_health", "taxes_and_budget"],
+    "candidateIds": [
+      "jerry-garcia"
+    ],
+    "topics": [
+      "downtown_and_local_economy",
+      "public_safety",
+      "homelessness_and_health",
+      "taxes_and_budget"
+    ],
     "limitedAccess": false,
     "relatedUrls": []
   },
@@ -162,8 +420,14 @@
     "retrievalDate": "2026-08-24",
     "type": "campaign_release",
     "summary": "Hammond's campaign site confirms a council re-election bid and highlights public safety, affordable taxation, practical housing measures and renter protection.",
-    "candidateIds": ["stephen-hammond"],
-    "topics": ["public_safety", "taxes_and_budget", "housing"],
+    "candidateIds": [
+      "stephen-hammond"
+    ],
+    "topics": [
+      "public_safety",
+      "taxes_and_budget",
+      "housing"
+    ],
     "limitedAccess": false,
     "relatedUrls": []
   },
@@ -176,10 +440,19 @@
     "retrievalDate": "2026-08-24",
     "type": "reporting",
     "summary": "The report introduces Lee and Sandor as council candidates and describes their shared emphasis on housing costs, public services and a city where younger residents can remain.",
-    "candidateIds": ["bella-lee", "jack-sandor"],
-    "topics": ["housing", "other"],
+    "candidateIds": [
+      "bella-lee",
+      "jack-sandor"
+    ],
+    "topics": [
+      "housing",
+      "other"
+    ],
     "limitedAccess": false,
-    "relatedUrls": ["https://www.bellalee.ca/", "https://www.jacksandor.ca/"]
+    "relatedUrls": [
+      "https://www.bellalee.ca/",
+      "https://www.jacksandor.ca/"
+    ]
   },
   {
     "id": "2026-06-25-mcinnis-campaign",
@@ -190,8 +463,16 @@
     "retrievalDate": "2026-08-24",
     "type": "campaign_release",
     "summary": "McInnis's campaign presents governance, budget, housing, transportation and safety proposals, including an integrity commissioner and zero-based budgeting.",
-    "candidateIds": ["arthur-mcinnis"],
-    "topics": ["governance_and_amalgamation", "taxes_and_budget", "housing", "transportation", "public_safety"],
+    "candidateIds": [
+      "arthur-mcinnis"
+    ],
+    "topics": [
+      "governance_and_amalgamation",
+      "taxes_and_budget",
+      "housing",
+      "transportation",
+      "public_safety"
+    ],
     "limitedAccess": false,
     "relatedUrls": []
   },
@@ -204,8 +485,14 @@
     "retrievalDate": "2026-08-24",
     "type": "campaign_release",
     "summary": "Rothe's campaign emphasizes transparent government, downtown renewal, proactive planning and attention to municipal core services.",
-    "candidateIds": ["karen-rothe"],
-    "topics": ["governance_and_amalgamation", "downtown_and_local_economy", "taxes_and_budget"],
+    "candidateIds": [
+      "karen-rothe"
+    ],
+    "topics": [
+      "governance_and_amalgamation",
+      "downtown_and_local_economy",
+      "taxes_and_budget"
+    ],
     "limitedAccess": false,
     "relatedUrls": []
   },
@@ -218,10 +505,20 @@
     "retrievalDate": "2026-08-24",
     "type": "reporting",
     "summary": "The report confirms Alto's re-election launch and outlines priorities including housing, safety, community wellbeing, parks, arts and regional policing.",
-    "candidateIds": ["marianne-alto"],
-    "topics": ["housing", "public_safety", "homelessness_and_health", "parks", "arts_and_culture"],
+    "candidateIds": [
+      "marianne-alto"
+    ],
+    "topics": [
+      "housing",
+      "public_safety",
+      "homelessness_and_health",
+      "parks",
+      "arts_and_culture"
+    ],
     "limitedAccess": false,
-    "relatedUrls": ["https://mariannealto.ca/"]
+    "relatedUrls": [
+      "https://mariannealto.ca/"
+    ]
   },
   {
     "id": "2026-05-15-bowkett-campaign",
@@ -232,8 +529,16 @@
     "retrievalDate": "2026-08-24",
     "type": "campaign_release",
     "summary": "Bowkett's campaign sets out positions on public accountability, community safety, non-market housing, parks and local economic planning.",
-    "candidateIds": ["wendy-bowkett"],
-    "topics": ["governance_and_amalgamation", "public_safety", "housing", "parks", "downtown_and_local_economy"],
+    "candidateIds": [
+      "wendy-bowkett"
+    ],
+    "topics": [
+      "governance_and_amalgamation",
+      "public_safety",
+      "housing",
+      "parks",
+      "downtown_and_local_economy"
+    ],
     "limitedAccess": false,
     "relatedUrls": []
   },
@@ -246,8 +551,15 @@
     "retrievalDate": "2026-08-24",
     "type": "campaign_release",
     "summary": "Cseszko's campaign focuses on downtown conditions, business vitality, municipal accountability and protection of Victoria's heritage character.",
-    "candidateIds": ["melissa-cseszko"],
-    "topics": ["downtown_and_local_economy", "public_safety", "governance_and_amalgamation", "climate_and_public_realm"],
+    "candidateIds": [
+      "melissa-cseszko"
+    ],
+    "topics": [
+      "downtown_and_local_economy",
+      "public_safety",
+      "governance_and_amalgamation",
+      "climate_and_public_realm"
+    ],
     "limitedAccess": false,
     "relatedUrls": []
   },
@@ -260,8 +572,16 @@
     "retrievalDate": "2026-08-24",
     "type": "campaign_release",
     "summary": "Dell's campaign site confirms his re-election bid and sets out priorities on homes, a downtown library, parks, infrastructure, arts and local business.",
-    "candidateIds": ["matt-dell"],
-    "topics": ["housing", "arts_and_culture", "parks", "climate_and_public_realm", "downtown_and_local_economy"],
+    "candidateIds": [
+      "matt-dell"
+    ],
+    "topics": [
+      "housing",
+      "arts_and_culture",
+      "parks",
+      "climate_and_public_realm",
+      "downtown_and_local_economy"
+    ],
     "limitedAccess": false,
     "relatedUrls": []
   },
@@ -274,9 +594,17 @@
     "retrievalDate": "2026-08-24",
     "type": "reporting",
     "summary": "The report confirms Caradonna's re-election plans and says his developing platform centres community safety, sustainable urbanism, affordable housing and community infrastructure.",
-    "candidateIds": ["jeremy-caradonna"],
-    "topics": ["public_safety", "housing", "climate_and_public_realm"],
+    "candidateIds": [
+      "jeremy-caradonna"
+    ],
+    "topics": [
+      "public_safety",
+      "housing",
+      "climate_and_public_realm"
+    ],
     "limitedAccess": false,
-    "relatedUrls": ["https://www.electjeremy.ca/"]
+    "relatedUrls": [
+      "https://www.electjeremy.ca/"
+    ]
   }
 ]

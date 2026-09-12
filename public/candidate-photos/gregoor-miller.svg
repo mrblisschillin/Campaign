@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="640" viewBox="0 0 640 640" role="img" aria-label="GM candidate initials placeholder">
+  <rect width="640" height="640" fill="#4d6744"/>
+  <circle cx="320" cy="254" r="116" fill="#f8efe7" opacity="0.96"/>
+  <path d="M112 578c30-122 111-188 208-188s178 66 208 188" fill="#f8efe7" opacity="0.96"/>
+  <text x="320" y="338" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="118" font-weight="700" fill="#4d6744">GM</text>
+</svg>

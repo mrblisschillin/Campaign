@@ -177,8 +177,8 @@ function CandidateSection({ office, filtered, onOpen }: { office: Office; filter
         <div><span className="eyebrow crimson">Office</span><h2 id={`${office}-heading`}>{office === 'mayor' ? 'Mayor' : 'Council'}</h2></div>
         <span className="result-count">{group.length} record{group.length === 1 ? '' : 's'}</span>
       </div>
-      <CandidateGroup title="Publicly announced" description="Direct campaign announcement or adequately corroborated local reporting." group={announced} onOpen={onOpen} />
       <CandidateGroup title="Official election status" description="Nomination or ballot status confirmed by the City of Victoria." group={official} onOpen={onOpen} />
+      <CandidateGroup title="Publicly announced" description="Direct campaign announcement or adequately corroborated local reporting, not yet matched to an official City declaration." group={announced} onOpen={onOpen} />
       <CandidateGroup title="Withdrawn" description="Previously tracked candidates with a sourced withdrawal." group={withdrawn} onOpen={onOpen} />
     </section>
   );

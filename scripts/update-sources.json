@@ -1,0 +1,86 @@
+{
+  "sources": [
+    {
+      "id": "city-election-page",
+      "label": "City of Victoria election information",
+      "url": "https://www.victoria.ca/city-government/elections",
+      "sourceType": "official",
+      "mustContain": [
+        "City of Victoria",
+        "2026 City of Victoria Local Government Election",
+        "nomination period"
+      ],
+      "disallowTerms": ["Victorian state", "Australian", "melbourne", "vec.vic.gov.au", ".au"]
+    },
+    {
+      "id": "city-public-notices",
+      "label": "City of Victoria public notices",
+      "url": "https://www.victoria.ca/city-government/mayor-council/public-notices-hearings",
+      "sourceType": "official",
+      "mustContain": [
+        "public notices",
+        "2026 General Local Election Official Notice"
+      ],
+      "disallowTerms": ["Victorian state", "melbourne", "vec.vic.gov.au", ".au"]
+    },
+    {
+      "id": "city-nomination-notice",
+      "label": "City of Victoria nomination notice",
+      "url": "https://www.victoria.ca/media/file/notice-nomination",
+      "sourceType": "official",
+      "mustContain": [
+        "NOTICE OF NOMINATION",
+        "CITY OF VICTORIA COUNCIL",
+        "MAYOR",
+        "COUNCILLOR"
+      ],
+      "disallowTerms": ["vec.vic.gov.au", ".au"]
+    },
+    {
+      "id": "city-candidate-declaration",
+      "label": "City of Victoria declaration of candidates",
+      "url": "https://www.victoria.ca/media/file/declaration-candidates-2026",
+      "sourceType": "official",
+      "mustContain": [
+        "DECLARATION OF CANDIDATES",
+        "FOR THE OFFICE OF MAYOR",
+        "FOR THE OFFICE OF COUNCILLOR"
+      ],
+      "disallowTerms": ["vec.vic.gov.au", ".au"]
+    },
+    {
+      "id": "civicinfo-victoria-candidates",
+      "label": "CivicInfo Victoria candidate list",
+      "url": "https://localelections.ca/election_candidates/142_2026_candidates.html",
+      "sourceType": "secondary",
+      "mustContain": [
+        "Victoria (City)",
+        "Candidates for Victoria",
+        "MAYOR",
+        "COUNCILLOR"
+      ],
+      "disallowTerms": ["vec.vic.gov.au", ".au", "Victorian state", "melbourne"]
+    },
+    {
+      "id": "elections-bc-local",
+      "label": "Elections BC local-election page",
+      "url": "https://elections.bc.ca/local-elections/2026-general-local-elections/",
+      "sourceType": "secondary",
+      "mustContain": [
+        "2026 General Local Elections",
+        "City of Victoria"
+      ],
+      "disallowTerms": ["vec.vic.gov.au", ".au"]
+    },
+    {
+      "id": "elections-bc-candidates-pdf",
+      "label": "Elections BC candidate register snapshot",
+      "url": "https://elections.bc.ca/docs/lecfa/Registered-Candidates-LEGE-2026-10-17.pdf",
+      "sourceType": "secondary",
+      "mustContain": [
+        "CANDIDATES 2026 General Local Elections"
+      ],
+      "disallowTerms": [".au"]
+    }
+  ]
+}
